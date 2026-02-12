@@ -1,0 +1,41 @@
+
+================================================================================
+Sub-query: law review articles analyzing key legal precedents for motions to dismiss in federal court
+Files written: 3
+Total characters: 7,422
+Estimated total tokens: ~1,855
+Timestamp: 2026-02-12 21:52:28
+  cf7acd04_untitled.txt - 2,643 chars (~660 tokens) - https://lawreview.uchicago.edu/sites/default/files/03_Geary_CMT_FINAL.pdf
+  95726dae_untitled.txt - 3,393 chars (~848 tokens) - https://www.fedbar.org/wp-content/uploads/2011/08/coverstory_aug11-pdf-1.pdf
+  d1ef3f8a_0-prelims_pdf.txt - 1,386 chars (~346 tokens) - https://wmlawreview.org/sites/default/files/Effron_final.pdf
+
+================================================================================
+Sub-query: What are the key legal precedents for motion to dismiss in federal court?
+Files written: 3
+Total characters: 28,418
+Estimated total tokens: ~7,104
+Timestamp: 2026-02-12 21:52:30
+  0a126a83_Motion_to_Dismiss_FRCP12_b__explained_by_Attorney_Steve__-_Y.txt - 231 chars (~57 tokens) - https://www.youtube.com/watch?v=eeW-WrM3ecY
+  e59fd834_untitled.txt - 1,173 chars (~293 tokens) - https://www.aclu.org/wp-content/uploads/legal-documents/Reynolds_v._Talberg_-_Defendants_Motion_to_Dismiss.pdf
+  f0bcd635_US_Federal_Rule_48__Government_Motions_to_Dismiss_-_Leppard_.txt - 27,014 chars (~6,753 tokens) - https://leppardlaw.com/federal/motions/us-federal-rule-48-government-motions-to-dismiss/
+
+================================================================================
+Sub-query: Supreme Court key precedents for motions to dismiss under Federal Rule 12(b)(6): Twombly Iqbal Conley
+Files written: 3
+Total characters: 166,032
+Estimated total tokens: ~41,508
+Timestamp: 2026-02-12 21:52:30
+  34d86fd2_Mission_to_Dismiss__A_Dismissal_of_Rule_12_b__6__and_the_Ret.txt - 161,006 chars (~40,251 tokens) - https://cardozolawreview.com/rule-12b6-and-twombly-iqbal-marrero/
+  cce4904f_Taber.txt - 2,954 chars (~738 tokens) - https://www.nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-89-5-1867-Taber.pdf
+  efb553c3_The_New_Rule_12_b__6____Stanford_Law_Review.txt - 2,072 chars (~518 tokens) - https://www.stanfordlawreview.org/print/article/the-new-rule-12b6-twombly-iqbal-and-the-paradox-of-pleading/
+
+================================================================================
+Sub-query: landmark federal circuit court cases on motion to dismiss for lack of subject matter jurisdiction and personal jurisdiction under FRCP 12(b)(1) and 12(b)(2)
+Files written: 4
+Total characters: 62,215
+Estimated total tokens: ~15,553
+Timestamp: 2026-02-12 21:52:30
+  4b7b7567_Rule_12__Defenses_and_Objections__When_and_How_Presented__Mo.txt - 33,829 chars (~8,457 tokens) - https://www.law.cornell.edu/rules/frcp/rule_12
+  3300dc9f_FEC_v__Rivera__17-22643__Motion_to_Dismiss_for_Lack_of_Subje.txt - 1,661 chars (~415 tokens) - https://www.fec.gov/resources/cms-content/documents/rivera_rivera_mtd.pdf
+  8ff05eff_Federal_Court_Motions_to_Dismiss_and_the_Standard_for_Overco.txt - 25,399 chars (~6,349 tokens) - https://lamothefirm.com/2024/05/24/federal-court-motions-to-dismiss-and-the-standard-for-overcoming-them-2/
+  cccfe241_Q__Michael_Graubarth_SJ_draft_wpd.txt - 1,326 chars (~331 tokens) - https://www.govinfo.gov/content/pkg/USCOURTS-laed-2_05-cv-00892/pdf/USCOURTS-laed-2_05-cv-00892-0.pdf

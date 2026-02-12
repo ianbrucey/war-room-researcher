@@ -1,0 +1,58 @@
+# Source: https://www.nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-89-5-1867-Taber.pdf
+# Title: Taber
+# Sub-query: Supreme Court key precedents for motions to dismiss under Federal Rule 12(b)(6): Twombly Iqbal Conley
+# Characters: 2954
+# Estimated tokens: ~738
+================================================================================
+
+SILLY JURIST, TWIQBAL’S FOR CLAIMS:
+PLEADING JURISDICTION AFTER
+TWOMBLY AND IQBAL
+JACOB J. TABER*
+Plaintiffs seeking to institute a civil action in federal court must plead the grounds
+for the court’s subject-matter jurisdiction over their claim; if they cannot adequately
+do so, their claim will be dismissed. Recently, courts have started to apply the plau-
+sibility rule announced in Bell Atlantic Corp. v. Twombly and Ashcroft v. Iqbal—
+which requires plaintiffs to plead facts plausibly showing their entitlement to
+relief—to the pleading of subject-matter jurisdiction. This Note argues that such a
+novel shift in how jurisdiction is pleaded is neither supported nor necessitated by
+Twombly and Iqbal and is fundamentally incompatible with long-settled jurisdic-
+tional doctrine. It therefore recommends that district court judges redouble their
+attention to the articulation of procedural rules of decision (eschewing reliance
+upon boilerplate) and desist from imposing heightened pleading of subject-matter
+jurisdiction without considering the question as a matter of first impression.
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1868
+I.
+PLEADING MERITS AND JURISDICTION . . . . . . . . . . . . . . . . . . 1872
+A. Pleading the Claim for Relief . . . . . . . . . . . . . . . . . . . . . . . 1872
+1.
+Code and Notice Pleading . . . . . . . . . . . . . . . . . . . . . . 1872
+2.
+Plausibility Pleading . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1873
+B. Pleading Subject-Matter Jurisdiction. . . . . . . . . . . . . . . . . 1876
+II.
+JUDICIAL (MIS)INTERPRETATIONS OF TWOMBLY AND
+IQBAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1879
+A. Lower Courts Have Not Shown That Twombly and
+Iqbal Should Extend to Jurisdiction . . . . . . . . . . . . . . . . . 1880
+1.
+Naked Citations to Twombly/Iqbal . . . . . . . . . . . . . . 1880
+2.
+Procedural Boilerplate and Copy-Paste
+Precedent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1885
+3.
+Question of First Impression . . . . . . . . . . . . . . . . . . . . 1889
+B. Extending Twombly and Iqbal Conflicts with Settled
+Doctrine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1891
+1.
+Curtailment or Elimination of Jurisdictional
+Discovery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1892
+2.
+Abrogation of the Saint Paul Mercury Rule—
+Amount in Controversy and Pleading . . . . . . . . . . . 1895
+* Copyright © 2014 by Jacob J. Taber. J.D., 2014, New York University School of Law;
+B.A., 2009, Columbia University; B.A., 2009, Jewish Theological Seminary of America.
+With gratitude to Professor Arthur R. Miller for his guidance and encouragement, and to
+Jack Zarin-Rosenfeld, Monte Frenkel, and Johann Strauss for their tireless editing. But
+above all, for Sarah.
+1867

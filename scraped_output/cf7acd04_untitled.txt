@@ -1,0 +1,52 @@
+# Source: https://lawreview.uchicago.edu/sites/default/files/03_Geary_CMT_FINAL.pdf
+# Title: 
+# Sub-query: law review articles analyzing key legal precedents for motions to dismiss in federal court
+# Characters: 2643
+# Estimated tokens: ~660
+================================================================================
+
+979 
+COMMENTS 
+The Exception to Rule 12(d):  
+Incorporation by Reference of Matters 
+Outside the Pleadings 
+Laura Geary† 
+Defendants frequently attach supporting materials to Rule 12(b)(6) motions to 
+dismiss for failure to state a claim. The plain text of Federal Rule of Civil Proce-
+dure 12(d) dictates that judges must either exclude this material or treat the motion 
+as one for summary judgment. However, a substantial exception has emerged that 
+threatens to swallow the rule. 
+The exception, called incorporation by reference, permits the consideration of 
+outside materials when they are either referenced in the pleadings, central to the 
+claim, or sometimes both. Courts have defined these elements differently and have 
+diverged in their understandings of the doctrine. Incorporation by reference appeal-
+ingly offers an expedient route to resolve cases. But it also skirts the text and inten-
+tion of the Federal Rules. This Comment explores the history of Rule 12(d), describes 
+courts’ varying uses of the exception, and proposes a unifying method of interpreta-
+tion for the future. Drawing on other procedural rules and an analogous doctrine in 
+contract law, it argues that only unmistakably referenced written instruments may 
+be incorporated. 
+INTRODUCTION .................................................................................................... 980 
+I. 
+PLEADINGS AND MOTIONS: THE RELEVANT CIVIL PROCEDURE BASICS ......... 983 
+II. HISTORICAL ANALYSIS OF RULE 12(d) .......................................................... 986 
+A. Historical Perspective Regarding Matters Outside the Pleadings ... 986 
+1. 
+The speaking-motion debate. ...................................................... 988 
+2. 
+Compromise—the precursor to Rule 12(d). ................................ 991 
+B. Creation of the Exception to Rule 12(d) ............................................. 993 
+1. 
+The means—Rule 10(c). ............................................................... 994 
+2. 
+The ends—notice and nuisance. .................................................. 995 
+3. 
+The proliferation of the exception. .............................................. 997 
+III. CURRENT APPROACHES IN THE CIRCUITS ..................................................... 999 
+A. Reference ........................................................................................... 1000 
+ 
+ 
+† 
+B.A. 2018, Swarthmore College; J.D. Candidate 2023, The University of Chicago 
+Law School. I thank Professor William H.J. Hubbard for his expert guidance and thought-
+ful feedback as well as the editors of the University of Chicago Law Review.

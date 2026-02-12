@@ -78,6 +78,8 @@ class GPTResearcher:
         mcp_configs: list[dict] | None = None,
         mcp_max_iterations: int | None = None,
         mcp_strategy: str | None = None,
+        context_packet: dict | None = None,
+        case_documents: dict | None = None,
         **kwargs
     ):
         """
@@ -130,8 +132,14 @@ class GPTResearcher:
                 ```
             mcp_strategy (str, optional): MCP execution strategy. Options:
                 - "fast" (default): Run MCP once with original query for best performance
-                - "deep": Run MCP for all sub-queries for maximum thoroughness  
+                - "deep": Run MCP for all sub-queries for maximum thoroughness
                 - "disabled": Skip MCP entirely, use only web retrievers
+            context_packet (dict, optional): Structured legal context for sub-query generation.
+                Contains fields like parties, jurisdiction, claims, opposing_argument, etc.
+            case_documents (dict, optional): Dictionary mapping document types to file paths.
+                Used by synthesis agent to access case-specific documents during report generation.
+                Example: {"motion": "/path/to/motion.txt", "complaint": "/path/to/complaint.txt"}
+                Defaults to None (empty dict).
         """
         self.kwargs = kwargs
         self.query = query
@@ -165,6 +173,8 @@ class GPTResearcher:
         self.prompt_family = get_prompt_family(prompt_family or self.cfg.prompt_family, self.cfg)
         
         # Process MCP configurations if provided
+        self.context_packet = context_packet
+        self.case_documents = case_documents or {}
         self.mcp_configs = mcp_configs
         if mcp_configs:
             self._process_mcp_configs(mcp_configs)

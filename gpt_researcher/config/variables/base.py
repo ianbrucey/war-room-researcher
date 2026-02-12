@@ -43,6 +43,10 @@ class BaseConfig(TypedDict):
     MCP_ALLOWED_ROOT_PATHS: List[str]
     MCP_STRATEGY: str
     REASONING_EFFORT: str
+    # Curation pipeline settings
+    SKIP_EMBEDDING_COMPRESSION: bool  # Skip RAG compression; write raw scraped files for inspection
+    SCRAPE_OUTPUT_DIR: Union[str, None]  # Directory to write scraped files (default: /tmp/research_{id}/scraped)
+
     # Image generation settings
     IMAGE_GENERATION_MODEL: Union[str, None]
     IMAGE_GENERATION_MAX_IMAGES: int

@@ -1,0 +1,71 @@
+# Source: https://www.fedbar.org/wp-content/uploads/2011/08/coverstory_aug11-pdf-1.pdf
+# Title: 
+# Sub-query: law review articles analyzing key legal precedents for motions to dismiss in federal court
+# Characters: 3393
+# Estimated tokens: ~848
+================================================================================
+
+The Federal Rules of Civil Procedure provide for the 
+use of pretrial motions to narrow and clarify the scope 
+of litigation. Most clients, however, do not have finan-
+cial resources to file every available motion, nor is every 
+motion practically feasible. As a practical matter, attorneys 
+must consider whether a motion’s potential for adding 
+value to the case as a whole is worth the expense to the 
+client. This article recommends using standards of review 
+as a guide in deciding which pretrial motions to file in a 
+federal civil case. Although the article references case law 
+from the Fifth Circuit, the underlying recommendations are 
+appropriate for all jurisdictions.
+What is a Standard of Review? 
+“At its clearest level, a standard of review prescribes the 
+degree of deference given by the reviewing court to the 
+actions or decisions under review.”1 “[T]he applicable stan-
+dard of review tends to reflect the appellate courts’ accu-
+mulated wisdom as to which issues deserve their attention 
+and which issues should be left primarily to front-line trial 
+courts and agencies.”2 As a general rule, the more discre-
+tion a trial judge has, the more deferential the applicable 
+appellate standard of review.
+Abuse of discretion is one of the most deferential stan-
+dards of review. A reviewing court uses this standard to 
+review rulings for which the law gives the trial judge dis-
+cretion to decide. When reviewing for abuse of discretion, 
+the appellate court does not ask whether it would have 
+made the same ruling as an original matter, but, instead, 
+whether the district court abused its discretion under the 
+applicable standards of determination of any motion.3 
+Thus, the district court need not have been “right” to be 
+upheld by the appellate court;4 instead, the lower court 
+needs only to remain within its discretion. For this reason, 
+an abuse of discretion is difficult to show on appeal.
+In contrast, “de novo review requires an appellate court 
+to review the case anew, without any formal deference to 
+the decision below … .5 De novo review is typically applied 
+to conclusions of law as opposed to factual determina-
+tions.”6 Under this standard, the appellate court reviews the 
+district court’s legal conclusions de novo, giving no defer-
+ence to the lower court’s decision while taking the facts in 
+the light most favorable to the nonmoving party.7 Although 
+the appellate court owes the district court no deference, 
+“[i]ndependent appellate review necessarily entails a careful 
+consideration of the district court’s legal analysis, and an 
+efficient and sensitive appellate court at least will naturally 
+consider this analysis in undertaking its review.”8
+Why Consider Standards of Review?
+As a trial attorney, your familiarity with standards of 
+review may seem of little benefit or import to your prac-
+tice. However, knowing and understanding standards of 
+review can be valuable guideposts to determining the 
+value and probable success of a certain action. In addition, 
+because standards of review serve as important guides to 
+seasoned trial judges who consider how their decisions 
+will be reviewed if challenged, knowing the applicable 
+standard of review can help a trial attorney frame argu-
+22 | The Federal Lawyer | August 2011
+Using Standards 
+of Review as a 
+Guide to Filing 
+Pretrial Motions 
+in Federal Court
+By Regina Stone-Harris

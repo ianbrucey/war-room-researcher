@@ -1,0 +1,54 @@
+# Source: https://www.fec.gov/resources/cms-content/documents/rivera_rivera_mtd.pdf
+# Title: FEC v. Rivera (17-22643) Motion to Dismiss for Lack of Subject Matter Jurisdiction filed March 31, 2021.
+# Sub-query: landmark federal circuit court cases on motion to dismiss for lack of subject matter jurisdiction and personal jurisdiction under FRCP 12(b)(1) and 12(b)(2)
+# Characters: 1661
+# Estimated tokens: ~415
+================================================================================
+
+1 
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF FLORIDA 
+Case No. 17-CV-22643 COOKE/GOODMAN 
+ 
+ 
+FEDERAL ELECTION COMMISSION, 
+ 
+ 
+ 
+ 
+ 
+Plaintiff, 
+ 
+vs. 
+ 
+DAVID RIVERA, 
+ 
+ 
+ 
+ 
+ 
+Defendant. 
+ 
+ 
+ 
+ 
+ 
+MOTION TO DISMISS FOR LACK OF SUBJECT MATTER JURISDICTION 
+ 
+Pursuant to Rule 12(b)(1), Federal Rules of Civil Procedure, Defendant, DAVID RIVERA 
+respectfully moves this Court to dismiss this case with prejudice for lack of subject matter 
+jurisdiction and states: 
+LEGAL STANDARD APPLICABLE TO RULE 12(B)(1) MOTIONS 
+“Federal courts have limited subject-matter jurisdiction, and the party invoking the court’s 
+jurisdiction bears the burden of proving it exists.” Orchid Quay, LLC v. Suncor Bristol Bay, LLC, 
+178 F.Supp.3d 1300, 1302 (S.D. Fla. 2016) (citing McCormick v. Aderholt, 293 F.3d 1254, 1257 
+(11th Cir. 2002) (per curiam)).  A party, or a court on its own initiative, can challenge whether the 
+court has subject matter jurisdiction, at any time, under Fed.R.Civ.P. 12(b)(1). Arbaugh v. Y&H 
+Corp., 546 U.S. 500, 506 (2006). Further, “Rule 12(h)(3) instructs: ‘[w]henever it appears by 
+suggestion of the parties or otherwise that the court lacks jurisdiction of the subject matter, the 
+court shall dismiss the action.’” Id. (quoting Kontrick v. Ryan, 540 U.S. 443, 455 (2004)). A 
+different standard of review applies to Rule 12(b)(1) motions depending on whether the challenge  
+is facial or factual.  As the Eleventh Circuit explained in Stalley ex rel. U.S. v. Orlando Reg'l 
+Healthcare Sys., Inc., 524 F.3d 1229, 1232–33 (11th Cir. 2008): 
+Case 1:17-cv-22643-MGC   Document 171   Entered on FLSD Docket 03/31/2021   Page 1 of 22

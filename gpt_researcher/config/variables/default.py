@@ -44,6 +44,10 @@ DEFAULT_CONFIG: BaseConfig = {
     "MCP_STRATEGY": "fast",  # MCP execution strategy: "fast", "deep", "disabled"
     "REASONING_EFFORT": "medium",
     
+    # Curation pipeline settings
+    "SKIP_EMBEDDING_COMPRESSION": True,  # When True, skip RAG compression and write raw scraped files to disk
+    "SCRAPE_OUTPUT_DIR": None,  # Directory for scraped output (default: /tmp/research_{id}/scraped)
+
     # Image generation settings (optional - requires GOOGLE_API_KEY)
     # Free tier models: gemini-2.5-flash-image, gemini-2.0-flash-exp-image-generation
     # Paid tier models: imagen-4.0-generate-001, imagen-4.0-fast-generate-001

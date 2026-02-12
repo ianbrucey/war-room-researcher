@@ -1,0 +1,523 @@
+# Source: https://lamothefirm.com/2024/05/24/federal-court-motions-to-dismiss-and-the-standard-for-overcoming-them-2/
+# Title: Federal Court Motions to Dismiss and the Standard for Overcoming Them - Lamothe Law Firm
+# Sub-query: landmark federal circuit court cases on motion to dismiss for lack of subject matter jurisdiction and personal jurisdiction under FRCP 12(b)(1) and 12(b)(2)
+# Characters: 25399
+# Estimated tokens: ~6349
+================================================================================
+
+Federal Court Motions to Dismiss and the Standard for Overcoming Them - Lamothe Law Firm
+Skip to primary navigation
+Skip to main content
+Skip to primary sidebar
+Skip to footer
+Call Us Now:
+(504) 704-1414
+Contact Us
+Request a FREE Consultation
+Lamothe Law Firm
+attorneys have over 100 years of combined experience practicing in federal court including maritime law cases. Our
+maritime and offshore injury
+attorneys are
+Frank Lamothe
+,
+Richard Martin
+and
+Julien Lamothe
+.
+Here’s a popular article that Richard Martin wrote for other attorneys on “Legal Standards for Federal Rule of Civil Procedure 12 Motions to Dismiss.” This article appeared in a
+Louisiana Association for Justice
+publication,
+Louisiana Advocates
+. Here is the article in its entirety.
+LEGAL STANDARDS FOR FEDERAL RULE OF CIVIL PROCEDURE 12 MOTIONS TO DISMISS
+This article discusses the three most common federal court motions to dismiss which can be brought against your clients, and the standard for overcoming them These motions include Fed. R. Civ. P. 12(b)(1), which challenges subject matter jurisdiction, Fed. R. Civ. P. 12(b)(2), which challenges personal jurisdiction, and Fed. R. Civ. P. 12(b)(6) which asserts that plaintiff has failed to state a claim upon which relief may be granted. Winning these motions usually confers general or specific jurisdiction. But, there are also occasions when, despite a lack of general or specific jurisdiction, the court might be able to exercise Rule 4(k)(2) over the defendant. Typically, Rule 4(k)(2) will involve an “offshore” defendant which plays a “shell game” ducking U.S. jurisdiction but still has sufficient contacts with the United States as a whole to satisfy due process concerns.
+I. Rule 12(b)(1)
+Federal courts are courts of limited jurisdiction; without jurisdiction conferred by statute, they lack the power to adjudicate claims.
+1
+A motion to dismiss under Federal Rules of Civil Procedure 12(b)(1) challenges a federal court’s subject-matter jurisdiction.
+2
+Under Rule 12(b)(1), “[a] case is properly dismissed for lack of subject matter jurisdiction when the court lacks the statutory or constitutional power to adjudicate the case.”
+3
+“Lack of subject-matter jurisdiction may be found in the complaint alone, the complaint supplemented by the undisputed facts as evidenced in the record, or the complaint supplemented by the undisputed facts plus the court’s resolution of the disputed facts.”
+4
+“When grounds for dismissal may exist under both Rule 12(b)(1) and Rule 12(b)(6), the Court should, if necessary, dismiss only under the former without reaching the question of failure to state a claim.”
+5
+II. Rule 12(b)(2)
+“Personal jurisdiction ‘is an essential element of the jurisdiction of a district court, without which it is powerless to proceed to an adjudication.’
+6
+When a non-resident defendant challenges personal jurisdiction in a motion to dismiss, the plaintiff bears the burden of proving that personal jurisdiction exists.
+7
+If the district court rules on the motion without an evidentiary hearing, as in this case, the plaintiff need only make a prima facie showing of personal jurisdiction.
+8
+In determining whether the plaintiff has made a prima facie showing of personal jurisdiction, the district court must take the allegations of the complaint as true, except as controverted by opposing affidavits, and all conflicts in the facts must be resolved in favor of plaintiffs.
+9
+Thus, the district court may consider matters outside the complaint, including affidavits, when determining whether personal jurisdiction exists.
+10
+To exercise personal jurisdiction over a non-resident defendant, two requirements must be satisfied. “First, the forum state’s long-arm statute must confer personal jurisdiction. Second, the exercise of jurisdiction must not exceed the boundaries of the Due Process Clause of the Fourteenth Amendment.”
+11
+Because Louisiana’s long-arm statute confers personal jurisdiction to the limits of constitutional due process, these two inquiries become one and the same.
+12
+The Due Process Clause of the Fourteenth Amendment “operates to limit the power of a State to assert in personam jurisdiction over a nonresident defendant.”
+13
+For a court’s exercise of personal jurisdiction over a non-resident defendant to be constitutional under the Due Process Clause, (1) “that defendant [must have] purposefully availed himself of the benefits and protections of the forum state by establishing ‘minimum contacts’ with the forum state; and (2) the exercise of jurisdiction over that defendant [must] not offend ‘traditional notions of fair play and substantial justice.'”
+14
+The “minimum contacts” test takes two forms, depending on the type of jurisdiction the court seeks to exercise over the defendant: general jurisdiction or specific jurisdiction. In addition, the Federal Rules of Civil Procedure provide for a third form of personal jurisdiction in cases arising under federal law known as Rule 4(k)(2) jurisdiction.
+III. Rule 12(b)(6)
+Pursuant to Federal Rule of Civil Procedure 12(b)(6), a district court may dismiss a complaint, or any part of it, for failure to state a claim upon which relief may be granted if the plaintiff has not set forth factual allegations in support of his claim that would entitle him to relief.
+15
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.'”
+16
+“A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.”
+17
+The court, however, does not accept as true legal conclusions or mere conclusory statements, and “conclusory allegations or legal conclusions masquerading as factual conclusions will not suffice to prevent a motion to dismiss.”
+18
+“Threadbare recitals of elements of a cause of action, supported by mere conclusory statements” or “naked assertions devoid of further factual enhancement” are not sufficient.
+19
+In summary, “factual allegations must be enough to raise a right to relief above the speculative level.”
+20
+“Where the well-pleaded facts do not permit the court to infer more than the mere possibility of misconduct, the complaint has alleged—but it has not shown’—that the pleader is entitled to relief.”
+21
+; “Dismissal is appropriate when the complaint ‘on its face shows a bar to relief.'”
+22
+IV. Subject Matter Jurisdiction
+Federal court complaints assert subject matter jurisdiction under 28 U.S.C. § 1331 (“federal question” jurisdiction), 28 U.S.C. § 1332 (“diversity of citizenship” jurisdiction), or 28 U.S.C. § 1333 (“admiralty or maritime” jurisdiction).
+A claim under the Jones Act is a federal question.
+23
+To establish federal question jurisdiction based on the Jones Act,
+24
+a plaintiff must allege a colorable Jones Act claim.
+25
+In order to accomplish this, plaintiff must allege (1) he was employed as a seaman connected to a vessel; (2) he was injured in the course of his employment; and (3) his employer’s negligence caused his injury.
+26
+Whether or not Plaintiff’s claims are supported by the facts is not the inquiry when determining subject matter jurisdiction.
+27
+A federal court has subject matter jurisdiction over a Jones Act claim so long as the plaintiff has properly “alleged each of the elements.”
+28
+The test for seaman status under the Jones Act is well established in this circuit.
+29
+The plaintiff must establish (1) that he was assigned permanently to, or performs a substantial part of his work on, (2) a vessel in navigation and (3) that the capacity in which he is employed, or the duty which he performs, contributes to the function of the vessel or the accomplishment of its mission.
+30
+“A seaman does not lose his status because he is temporarily assigned by his employer to duties off his vessel.”
+31
+V. General jurisdiction.
+A court may exercise general jurisdiction over a non-resident defendant when that defendant’s contacts with the forum state are “continuous and systematic,” regardless of whether such contacts are related to the plaintiff’s cause of action.
+32
+Stated differently, “[g]eneral jurisdiction will attach, even if the act or transaction sued upon is unrelated to the defendant’s contacts with the forum state, if the defendant has engaged in ‘continuous and systematic’ activities in the forum state.”
+33
+The Supreme Court has explained, “for an individual, the paradigm forum for the exercise of general jurisdiction is the individual’s domicile; for a corporation it is an equivalent place, one in which the corporation is fairly regarded as at home.”
+34
+That is, the corporation must have substantial, continuous, and systematic contacts with the forum state so as to “render [it] essentially at home in the forum state.
+35
+Generally, however, it is “incredibly difficult to establish general jurisdiction in a forum other than the place of incorporation or principal place of business.
+36
+To make a prima facie showing of general jurisdiction, Plaintiff must produce evidence that affirmatively shows that the defendant’s contacts with the forum state are sufficient to satisfy due process requirements.
+37
+A defendant’s unrelated contacts must be so substantial, continuous and systematic so as to render it essentially at home in Louisiana.
+38
+VI. Specific jurisdiction.
+When the defendant’s contacts are less pervasive, a court may exercise specific jurisdiction over a non-resident defendant “in a suit arising out of or related to the defendant’s contacts with the forum.”
+39
+Specific jurisdiction exists, for example, where a non-resident defendant “has ‘purposefully directed its activities at the forum state and the litigation results from alleged injuries that arise out of or relate to those activities.'”
+40
+Specific jurisdiction also exists where a non-resident defendant “purposefully avails itself of the privilege of conducting activities within the forum State, thus invoking the benefits and protections of its laws.”
+41
+“The non-resident’s ‘purposeful availment’ must be such that the defendant ‘should reasonably anticipate being haled into court’ in the forum state.”
+42
+The Fifth Circuit established a three-factor analysis to guide courts in assessing the presence of specific personal jurisdiction:
+(1) Whether the defendant has minimum contacts with the forum state, i.e., whether it purposely directed its activities toward the forum state or purposely availed itself of the privileges of conducting activities there;
+(2) Whether the plaintiff’s cause of action arises out of or results from the defendant’s forum-related contacts; and
+(3) Whether the exercise of personal jurisdiction is fair and reasonable.
+43
+To make a prima facie showing of specific personal jurisdiction, the plaintiff need only satisfy the first two factors.
+44
+If the plaintiff makes a prima facie showing, the burden of proof with respect to the third factor shifts to the defendant to “present a compelling case that the presence of some other considerations would render jurisdiction unreasonable.”
+45
+“Although jurisdictional allegations must be accepted as true, such acceptance does not automatically mean that a prima facie case for specific jurisdiction has been presented.”
+46
+Establishing a prima facie case still requires the plaintiff to show the nonresident defendant’s purposeful availment of the benefits and protections of and minimum contacts with the forum state.
+47
+A district court need not credit conclusory allegations, even if uncontroverted.
+48
+Plaintiff may be required to produce evidence affirmatively demonstrating the defendant’s purposeful availment of the benefits and protections of and minimum contacts with the forum state.
+49
+If plaintiff does not allege that the injuries leading to his litigation occurred in the forum state, a court may have specific jurisdiction over a tort only if the plaintiff proves that his injuries arise out of or result from the defendant’s purposefully directed activities toward the forum state.
+50
+VII. Fed. R. Civ. P. 4(k)(2)
+If there is neither general nor specific jurisdiction, there nevertheless might be jurisdiction under Fed. R. Civ. P. 4(k)(2), which provides:
+For a claim that arises under federal law, serving a summons or filing a waiver of service establishes personal jurisdiction over a defendant if:
+(A) the defendant is not subject to jurisdiction in any state’s court of general jurisdiction; and
+(B) exercising jurisdiction is consistent with the United States Constitution and laws.
+The Rule was enacted to fill an important gap in the jurisdiction of federal courts in cases arising under federal law:
+Thus, there was a gap in the courts’ jurisdiction: while a defendant may have sufficient contacts with the United States as a whole to satisfy due process concerns, if she had insufficient contacts with any single state; she would not be amendable to service by a federal court sitting in that state . . . Rule 4(k)(2) was adopted in response to this problem of a gap in the courts’ jurisdiction . . .
+51
+“The Fifth Circuit has adopted the burden-shifting framework adopted by the United State Court of Appeals for the Seventh Circuit.”
+52
+Under this framework:
+The Plaintiff must make a prima facie case that the rule applies by “showing (1) that the claim asserted arises under federal law, (2) that personal jurisdiction is not available under any situation-specific federal statue, and (3) that the putative defendant’s contacts with the nation as a whole suffice to satisfy the applicable constitutional requirements. Additionally, the plaintiff must certify that, based on the information that is readily available to the plaintiff and his counsel, the defendant is not subject to suit in the courts of general jurisdiction of any state. Once plaintiff has made a prima facie case, then the burden shifts to the defendant to produce evidence that demonstrates that it is subject to jurisdiction in another state and/or that it has insufficient contacts with the United States as a whole.”
+53
+The Fifth Circuit has concluded that cases falling under a federal court’s admiralty jurisdiction are “claim[s] arising under federal law” for the purpose of Rule 4(k)(2).
+54
+Therefore, Rule 4(k)(2) applies if plaintiff can demonstrate that “(1) the defendant in question is not subject to the general jurisdiction of any other state, and (2) that exercising jurisdiction is consistent with the due process clause of the Fifth Amendment, meaning that the defendant has sufficient minimum contacts with the United States as a whole.
+55
+“The Fifth Circuit has held that a ‘piecemeal analysis of the existence vel non of jurisdiction in all fifty states is not necessary. Rather, so long as a defendant does not concede jurisdiction in another state, a court may use 4(k)(2) to confer jurisdiction.'”
+56
+“If . . . the defendant contends that he cannot be sued in the forum state and refuses to identify any other where suit is possible, then the federal court is entitled to use Rule 4(k)(2).”
+57
+This was precisely the case in O’Berry v. Ensco PLC, et al., No. 16-3569 (E.D.La.), a Jones Act case Lamothe Law Firm, LLC has pending before Judge Susie Morgan of the Eastern District. There, Ensco PLC stated in pleadings:
+“In this case, there is no basis for jurisdiction in any specific District Court because [it does] not have any contact with the United States and [is a] foreign corporation [] that maintain[s] all of [its] activities overseas.”
+Judge Morgan found that this statement was “…. sufficient to show the ENSCO plc has not conceded it is subject to the general jurisdiction of any state.” March 20, 2017 Order and Reasons (Rec. Doc. 79 at p. 16). Discovery then revealed that three Ensco PLC senior vice-presidents lived and worked in Houston, and that it also maintained its western hemisphere operations office in Houston.
+58
+Consequently, at p. 17 of her Order and Reasons, Judge Morgan held:
+“The Court finds that ENSCO plc has sufficient contacts with the United States as a whole such that exercising jurisdiction over ENSCO plc pursuant to Rule 4(k)(2) of the Federal Rules of Civil Procedure does not exceed the boundaries of the due process clause of the Fourteenth Amendment.”
+VIII. An unusual side benefit of Rule 4(k)(2) jurisdiction?
+I’ve mulled this over a bit, but my conclusion is likely true. Whereas venue in a federal court lawsuit is normally controlled by the provisions of 28 U.S.C. § 1391(b)(1) and (2)
+59
+, Rule 4(k)(2) jurisdiction seems to dispense with § 1391. Why? Because the target defendant denies being subject to jurisdiction in any state’s court of general jurisdiction, thus when plaintiff chooses the venue, the court looks for “contacts with the United States as a whole.”
+60
+My belief is that a foreign corporation which is subject to Rule 4(k)(2) jurisdiction here is also subject to jurisdiction in any other U.S. district court.
+1
+In re FEMA Trailer Formaldehyde Products Liability Litigation
+, 668 F.3d 281, 286 *(5
+th
+Cir. 2012).
+2
+See
+Fed. R. Civ. P. 12(b)(1).
+3
+Home Builders Association of Mississippi, Inc., v. City of Madison,
+143 F.3d 1006, 1010 (5
+th
+Cir. 1998).
+4
+In re FEMA
+, 668 F.3d at 287.
+5
+Valdery v. Louisiana Workforce Commission
+, 2015 WL 5307390 (E.D. La. Sept. 10, 2015).
+6
+Anderson v. GlobalSantaFe
+Offshore Services, Inc
+., 924 F.Supp.2d 738, 742 (E.D. La. 2013) (quoting
+Rhurgas AG v. Marathon Oil Co.
+, 526 U.S. 574, 583 (1999)).
+7
+Luv N’ Care, Ltd. V. Insta-Mix, Inc.
+, 438 F.3d 465, 469 (5
+th
+Cir. 2006)(citing
+Wyatt v. Kaplan
+, 686 F.2d 276, 280 (5
+th
+Cir. 1982)).
+8
+See id.
+9
+Id. See also Thompson v. Chrysler Motors Corp.
+, 755 F.2d 1162, 1165 (5
+th
+Cir. 1985).
+10
+Jobe v. ATR Mktg., Inc.
+, 87 F.3d 751, 753 (5
+th
+Cir. 1996).
+11
+Seiferth v. Helicopteros Atuneros, Inc.
+, 472 F.3d 266, 270 (5
+th
+Cir. 2006).
+12
+Luv N’ Care
+, 438 F.3d at 469; La. R.S. 13:3201(B).
+13
+Helicopteros Nacionales de Colombia, S.A. v. Hall
+, 466 U.S. 408, 413-14 (1984).
+14
+Latshaw v. Johnson
+, 167 F.3d 208, 211 (5
+th
+Cir. 1999).
+15
+Bell Atl. Corp. V. Twombly
+, 550 U.S. 544, 555 (2007);
+Cuvillier v. Taylor
+, 503 F.3d 397, 401 (5
+th
+Cir. 2007).
+16
+Ashcroft v. Iqbal
+, 556 U.S. 662, 678 (2009)(quoting
+Twombly
+, 550 U.S. at 570).
+17
+Id.
+18
+S. Christian Leadership Conference v. Supreme Court of the State of Louisiana
+, 252 F.3d 781, 786 (5
+th
+Cir. 2001)(citing
+Fernandez-Montes v. Allied Pilots Ass’n
+, 987 F.2d 278, 284 (5
+th
+Cir. 1993)).
+19
+Iqbal
+, 556 U.S. at 663.
+20
+Twombly
+, 550 U.S. at 555.
+21
+Id.
+(Quoting Fed. R. Civ. P. 8(a)(2)).
+22
+Cutrer v. McMillian
+, 308 F.App’x 819, 820 (5
+th
+Cir. 2009)(
+per curiam
+).
+23
+World Tanker Carriers Corp. v. M/V Mawlaya
+, 99 F.3d 717, 723 (5
+th
+Cir. 1996)
+; See
+1 THOMAS J. SCHOENBAUM, ADMIRALTY AND MARITIME LAW § 6-20 (5
+TH
+ed. 2011).
+24
+46 U.S.C. § 30104,
+et seq..
+25
+Halloway v. Pagan
+River Dockside Sweafood, Inc.,
+2002 WL 31741211 (E.D. La. Dec. 5, 2002).
+26
+See, e.g., id.
+27
+See Holloway
+, 669 F.3d at 448.
+28
+See id.
+At 453.
+29
+Smith v. Odom Offshore Surveys, Inc.
+, 791 F.2d 411, 415 (5
+th
+Cir. 1986).
+30
+Barrett v. Chevron, U.S.A.,
+781 F.2d 1067, 1072-73 (5
+th
+Cir. 1986).
+31
+Smith
+791 F.2d at 415 (citing
+Guidry v. South Louisiana Contractors, Inc.
+, 614 F.2d 337, 353 (5
+th
+Cir. 1980)(“[H]ow long a seaman’s status continues after a shoreside assignment is itself a fact question dependent on such factors as the duration of the assignment, it’s relationship to his employer’s business, whether the employee was free to accept or reject it without endangering his employment status, and any other factors relevant to the ultimate inquiry.”).
+See also Nunez v. Offshore Marine Contractors, Inc.
+, 2013 WL 12106126 (S.D. Tex. Dec. 9, 2013) (denying defendant’s motion for summary judgment regarding one of plaintiff’s Jones Act claims relatd to an injury that occurred during a training exercise.).
+32
+Helicopeteros Nacionales,
+466 U.S. at 413-14.
+33
+721 Bourbon, Inc. v. House of Auth., L.L.C.
+, 140 F.Supp. 3
+rd
+586, 592 (E.D. La. 2015).
+34
+Goodyear Dunlop Tires Operations
+,
+S
+.
+A
+.
+v
+.
+Brown
+, 564 U.S. 915, 924 (2011).
+35
+Daimler AG v. Bauman
+, ___ U.S. ___, 134 S.Ct. 746, 754 (2014).
+36
+Monkton Ins. Servs., Ltd. v. Ritter
+, 768 F.3d 429, 432 (5
+th
+Cir. 2014) (citing
+Daimler AG,
+134 S.Ct. At 760;
+Helicopteros Nacionales
+, 466 U.S. at 411-12).
+37
+Alpine View Co., Ltd. v. Atlas Copco AB
+, 205 F.3d 208, 217 (5
+th
+Cir. 2000).
+38
+See id.; Daimler AG
+, 134 S.Ct. at 760.
+39
+Luv N’ Care
+, 438 F.3d at 469.
+40
+Panda Brandywine Corp. v. Potomac Elec. Power Co.
+, 253 F.3d 865, 868 (5
+th
+Cir. 2001)(quoting
+Alpine View Co., Ltd. v. Atlas Copco AB
+, 205 F.3d 208, 215 (5
+th
+Cir. 2000)).
+41
+Burger King Corp. v. Rudzewicz
+, 471 U.S. 462, 475 (1985) (citing
+Hansen v. Denckla
+,357 U.S. 235, 253 (1958)).
+42
+Ruston Gas Turbines, Inc. v. Donaldson Co.
+, 9 F.3d 415, 419 (5
+th
+Cir. 1993) (quoting
+World-Wide Volkswagen Corp. v. Woodson
+, 444 U.S. 286, 297 (1980)).
+43
+Nuovo Pignone SpA v. STORMAN ASIA M/V
+, 310 F.3d 374, 378 (5
+th
+Cir. 2002);
+Luv N’ Care
+, 438 F.3d at 469.
+44
+Athletic Training Innovations, LLC v. eTagz, Inc.
+, 955 F.Supp.2d 602, 613 (E.D. La. 2013)
+45
+Autogenomics, Inc. v. Oxford Gene Tech.
+, 566 F.3d 1012, 1018-19 (Fed. Cir. 2009);
+Athletic Training Innovation
+s, 955 F.Supp.2d at 613.
+46
+Panda Brandywine Corp.
+, 253 F.3d at 868.
+47
+Id.
+(Citing
+Burger King
+, 471 U.S. at 474 (“The constitutional touchstone remains whether the defendant purposefully established ‘minimum contacts’ in the forum state.”)).
+48
+Id.
+at 869 (citing
+Felch v. Transportes Lar-Mex
+, 92 F.3d 320, 326 (5
+th
+Cir. 1996)).subject to jurisdiction in any state’s court of general jurisdiction
+49
+Id.
+50
+Anderson
+, 924 F.Supp.2d at 745.
+51
+Adams v. Unione Mediterranea DiSicurta
+, 364 F.3d 646, 650-51 (5
+th
+Cir. 2004) (quoting
+World Tanker Carriers Corp. v. M/V Mawlaya
+, 99 F.3d 717, 721-22 (5
+th
+Cir. 1996)).
+52
+Johnson v. PPI Technology Services, L.P.
+, 926 F.Supp.2d 873, 883-83 (E.D. La.
+2013) (citing
+ISI Int’l Inc. v. Borden Ladner Gervais, LLP,
+226 F.3d 648 (7
+th
+Cir. 2001)).
+53
+Id
+. at 883 (citing
+United States v. Swiss American Bank
+54
+World Tanker Carriers Corp.
+, 99 F.3d at 723.
+55
+Johnson,
+926 F.Supp.2d at 882 (citing
+Adams
+, 364 F.3d at 651).
+56
+Ogden v. GlobalSantaFe Offshore Services
+, 31 F.Supp.3d 832, 839-40 (E.D. La. 2014) (quoting
+Adams
+, 364 F.3d at 651).
+57
+Id.
+at 840.
+See also Johnson
+, 926 F.Supp.2d at 884-85.
+58
+Compare
+O’Berry
+to
+Patterson v. Aker Solutions Inc.
+, 826 F.3d 231 (5
+th
+Cir. 2016) where the U.S. Fifth Circuit affirmed a Western District
+denial
+of Rule 4(k)(2) jurisdiction. The Fifth Circuit focused on the sufficiency of the defendant’s continuous and systematic contacts with the United States, and found that sending eleven employees over a brief period does not rise to the level of making a defendant “at home” in the United States. In
+O’Berry
+, three Ensco senior vice-presidents, including the senior vice-president for western hemisphere operations and the senior vice-president for human resources lived in Houston on a long-term basis. In fact, the three were each served with copies of the summons and complaint at their residences.
+59
+E.g
+, a judicial district in which any defendant resides, or a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred.
+60
+I could not have made up the following facts if I was writing an Admiralty exam at Tulane Law School. In
+O’Berry
+, plaintiff was a Mississippi resident citizen who filed suit in the Eastern District. He alleged Ensco PLC, a British plc, was a co-Jones Act employer with Ensco Limited, a Cayman Islands company, which “admits” it is plaintiff’s Jones Act employer. Mr. O’Berry was assigned to the ENSCO 88, a Liberian flagged jack-up drilling vessel operating off Saudi Arabia. The vessel is owned by Ensco Offshore International, Inc., another Cayman Islands-based Ensco company. He had been transferred on paper from Ensco Offshore Inc., a Delaware corporation which drills in the Gulf of Mexico. He was injured in a swimming pool in Saudi Arabia while attending a mandatory helicopter escape-at-sea training course taught by SMTP Global, a Malaysian company acting as Ensco Limited’s agent. O’Berry’s human resource needs were handled in Houston by Ensco Incorporated, a Texas corporation, and his group health and disability insurance policies were held by Ensco International, Inc., a Delaware corporation.
+Share this:
+Share on X (Opens in new window)
+X
+Share on Facebook (Opens in new window)
+Facebook
+Free Consultation Schedule Your Appointment Today
+Email
+This field is for validation purposes and should be left unchanged.
+First Name*
+(Required)
+Last Name*
+Phone
+(Required)
+Email
+(Required)
+Comments
+Δ
+Footer
+Find Us
+400 Poydras St., Suite 1760
+New Orleans
+,
+LA
+70130
+Get Directions
+Call us
+Toll-Free
+(877) 249-6801
+Local
+(504) 704-1414
+Fax
+(504) 262-0945
+Visit Us
+Weekdays
+8:30 AM – 5:00 PM
+Saturday & Sunday
+By appointment
+Stay Connected
+Facebook
+Twitter
+LinkedIn
+Instagram
+×
+New legislation enables adults subjected to childhood sexual assault in Louisiana to file lawsuits
+against their perpetrators and the churches, schools, youth athletic leagues, medical facilities, and other organizations that enabled the wrongdoing.
+Call Lamothe Law Firm now for a confidential consultation.

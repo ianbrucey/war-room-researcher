@@ -1,0 +1,34 @@
+# Source: https://www.govinfo.gov/content/pkg/USCOURTS-laed-2_05-cv-00892/pdf/USCOURTS-laed-2_05-cv-00892-0.pdf
+# Title: Q:\Michael\Graubarth.SJ.draft.wpd
+# Sub-query: landmark federal circuit court cases on motion to dismiss for lack of subject matter jurisdiction and personal jurisdiction under FRCP 12(b)(1) and 12(b)(2)
+# Characters: 1326
+# Estimated tokens: ~331
+================================================================================
+
+1Rule 12(b)1 provides a defense for “lack of jurisdiction over the subject matter.”
+2Rule 56(c) provides, in pertinent part, that “[t]he judgment sought shall be rendered
+forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file,
+together with the affidavits, if any, show that there is no genuine issue as to any material fact and
+that the moving party is entitled to a judgment as a matter of law.”
+3Rec. Doc. 1, p. 2.
+1
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF LOUISIANA
+JONATHAN GRAUBARTH
+CIVIL ACTION
+VERSUS
+No. 05-0892
+UNITED STATES OF AMERICA,
+through its agency, DEPARTMENT
+OF THE INTERIOR
+SECTION:  I /1
+ORDER AND REASONS
+The matter before the Court is a motion, filed on behalf of defendant, the United States,
+seeking dismissal pursuant to Rule 12(b)11 of the Federal Rules of Civil Procedure or, in the
+alternative, summary judgment according to Rule 56(c)2.  Plaintiff, Jonathan Graubarth,
+(“Graubarth”), opposes the motion.  For the following reasons, defendant's motion for summary
+judgment is GRANTED.
+BACKGROUND
+On April 20, 2001, plaintiff was “performing”3 at the Jean Lafitte National Historic Park
+Auditorium in New Orleans, Louisiana.  The park is operated by the United States, through its
+Case 2:05-cv-00892-LMA-SS   Document 13   Filed 10/04/05   Page 1 of 10

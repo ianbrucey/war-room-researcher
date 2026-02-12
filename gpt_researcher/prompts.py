@@ -216,6 +216,7 @@ STYLE REQUIREMENTS:
         report_type: str,
         max_iterations: int = 3,
         context: List[Dict[str, Any]] = [],
+        context_packet: Dict[str, Any] = None,
     ):
         """Generates the search queries prompt for the given question.
         Args:
@@ -224,6 +225,7 @@ STYLE REQUIREMENTS:
             report_type (str): The report type
             max_iterations (int): The maximum number of search queries to generate
             context (str): Context for better understanding of the task with realtime web information
+            context_packet (dict): Optional structured context from WarRoom (parties, claims, etc.)
 
         Returns: str: The search queries prompt for the given question
         """
@@ -243,6 +245,34 @@ Context: {context}
 Use this context to inform and refine your search queries. The context provides real-time web information that can help you generate more specific and relevant queries. Consider any current events, recent developments, or specific details mentioned in the context that could enhance the search queries.
 """ if context else ""
 
+        # Enhancement: Inject legal context if context_packet is provided
+        legal_context_section = ""
+        if context_packet:
+            parties = context_packet.get('parties', {})
+            plaintiff = parties.get('plaintiff', 'Not specified')
+            defendant = parties.get('defendant', 'Not specified')
+            jurisdiction = context_packet.get('jurisdiction', 'Not specified')
+            claims = ', '.join(context_packet.get('claims', [])) if isinstance(context_packet.get('claims'), list) else context_packet.get('claims', 'Not specified')
+            opposing_arg = context_packet.get('opposing_argument', 'Not specified')
+            statutes = ', '.join(context_packet.get('key_statutes', [])) if isinstance(context_packet.get('key_statutes'), list) else context_packet.get('key_statutes', 'Not specified')
+            our_position = context_packet.get('our_position', 'Not specified')
+            
+            legal_context_section = f"""
+CASE CONTEXT:
+- Parties: {plaintiff} (Plaintiff) v. {defendant} (Defendant)
+- Jurisdiction: {jurisdiction}
+- Claims at Issue: {claims}
+- Opposing Argument: {opposing_arg}
+- Key Statutes: {statutes}
+- Our Position: {our_position}
+
+INSTRUCTIONS FOR LEGAL RESEARCH:
+1. Target the specific legal issue in the opposing argument.
+2. Include relevant statute numbers and legal terms from the context.
+3. Optimize queries for finding case law that supports our position or distinguishes the opposing argument.
+4. Include the jurisdiction ({jurisdiction}) in queries where relevant context is needed.
+"""
+
         dynamic_example = ", ".join([f'"query {i+1}"' for i in range(max_iterations)])
 
         return f"""Write {max_iterations} google search queries to search online that form an objective opinion from the following task: "{task}"
@@ -250,6 +280,8 @@ Use this context to inform and refine your search queries. The context provides 
 Assume the current date is {datetime.now(timezone.utc).strftime('%B %d, %Y')} if required.
 
 {context_prompt}
+{legal_context_section}
+
 You must respond with a list of strings in the following format: [{dynamic_example}].
 The response should contain ONLY the list.
 """

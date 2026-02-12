@@ -1,0 +1,34 @@
+# Source: https://wmlawreview.org/sites/default/files/Effron_final.pdf
+# Title: 0-prelims.pdf
+# Sub-query: law review articles analyzing key legal precedents for motions to dismiss in federal court
+# Characters: 1386
+# Estimated tokens: ~346
+================================================================================
+
+William and Mary
+Law Review
+VOLUME 51
+NO. 6, 2010
+           THE PLAINTIFF NEUTRALITY PRINCIPLE:        
+PLEADING COMPLEX LITIGATION IN THE ERA OF
+TWOMBLY AND IQBAL
+ROBIN J. EFFRON*
+ABSTRACT
+Two recent Supreme Court cases have stirred the world of pleading
+civil litigation. Bell Atlantic Corp. v. Twombly introduced the con-
+cept of “plausibility pleading” in which the plaintiff is required to
+plead facts sufficient to suggest that the claim for relief is “plausible,”
+and Ashcroft v. Iqbal affirmed that the plausibility standard applies
+to all aspects of a complaint subject to Rule 8(a) of the Federal Rules
+of Civil Procedure. This Article examines the consequences of the
+plausibility standard for pleadings in complex litigation cases.
+The Article argues that it is unacceptable to automatically equate
+the existence of a class action with a high cost of litigation—a
+prominent concern in Twombly and Iqbal—because this reasoning
+* The author thanks Miriam Baer, Fred Bloom, Ed Cheng, Kevin Clermont, Rebecca
+Kysar, Alexandra Lahav, Amy E. Powell, David Shapiro, Allan Stein, Adam Steinman, Yane
+Svetiev, Suja Thomas, Siobhan O'Leary, and participants in the Federal Courts Junior
+Scholars Workshop and Brooklyn Law School Junior Faculty for helpful comments, Nicole
+Broussard for research assistance, and Dean Joan Wexler for support from the Dean’s
+Summer Research Fund.
+1997

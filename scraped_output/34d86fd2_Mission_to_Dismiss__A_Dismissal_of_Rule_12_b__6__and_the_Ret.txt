@@ -1,0 +1,1180 @@
+# Source: https://cardozolawreview.com/rule-12b6-and-twombly-iqbal-marrero/
+# Title: Mission to Dismiss: A Dismissal of Rule 12(b)(6) and the Retirement of Twombly/Iqbal | Cardozo Law Review
+# Sub-query: Supreme Court key precedents for motions to dismiss under Federal Rule 12(b)(6): Twombly Iqbal Conley
+# Characters: 161006
+# Estimated tokens: ~40251
+================================================================================
+
+Mission to Dismiss: A Dismissal of Rule 12(b)(6) and the Retirement of Twombly/Iqbal | Cardozo Law Review
+Introduction
+The participants in this
+Cardozo Law Review
+special issue
+1
+A transcript of the panel discussion and Judge Marrero’s original article, both of which inspired this special issue, are published in the Supplement,
+infra
+p. 269.—Eds.
+—judges, scholars, and practitioners—reaffirm a point that rings loud and clear: the costs and inefficiencies of civil litigation are high and rising in troubling ways. This controversy continues to roil the legal community.
+2
+See generally
+Victor Marrero,
+The Cost of Rules, the Rule of Costs
+, 37 Cardozo L. Rev. 1599 (2016).
+The commotion encompasses several interrelated issues: the prohibitive expense, undue delays, and abusive practices associated with much of modern litigation. These circumstances bring worrisome effects to bear on a broad range of essential values, not the least of which is placing constraints on access to justice for many people because the price of going to court represented by a lawyer is unaffordable. Such concerns impinge upon fundamental interests of the legal profession, the practice of law, the courts, and the larger society.
+The views expressed by the various contributors highlight another vital point: the underlying problem is longstanding. It is also pervasive and ingrained and in fact has defied the intervention of a multitude of prior reform efforts spanning generations. Years of recurring deliberations, such as those again recounted here, all attest to the prevalence of concerns and the shortcomings of measures to relieve them. Countless attempts to address the central issues by amendment of the Federal Rules of Civil Procedure (the Federal Rules or Rule), by congressional statute, and by judicial doctrine have failed. None of these endeavors has made a marked difference on the depth or scope of the problem. The difficulties thus remain alive today.
+3
+See id.
+at 1692;
+see also
+James S. Kakalik et al.,
+Just, Speedy, and Inexpensive? An Evaluation of Judicial Case Management Under the Civil Justice Reform Act
+, 49 Ala. L. Rev. 17, 17 (1997) (“The Civil Justice Reform Act [] of 1990 is rooted in more than a decade of concern that cases in federal courts take too long and cost litigants too much. As a consequence, proponents of reform argue, some litigants are denied access to justice and many litigants incur inappropriate burdens when they turn to the courts for assistance in resolving disputes.”);
+id.
+at 18 (reporting on the results of a pilot project conducted by the U.S. Judicial Conference and the Administrative Office of U.S. Courts, finding that, in a sample of ten district courts, the implementation and effect of the Civil Justice Reform Act “had little effect on time to disposition, litigation costs, and attorneys’ satisfaction and views of the fairness of case management”).
+In consequence, if the issues are to be addressed seriously and meaningfully, new ways of thinking about them, coupled with more far-reaching remedial methods, may be called for.
+One central aspect of this debate raises questions about what accounts for the problem. Among the explanations advanced, the huge burdens attributable to discovery procedures usually top the catalog of the law profession’s grievances. Given the outsize role discovery plays in modern litigation,
+4
+See, e.g.
+, Scott A. Moss,
+Litigation Discovery Cannot Be Optimal but Could Be Better: The Economics of Improving Discovery Timing in a Digital Age
+, 58 Duke L.J. 889, 892 (2009) (noting that in litigation entailing discovery, that expense comprises from about one half of total costs to as much as 90% in the category of most expensive cases); John H. Beisner,
+Discovering a Better Way: The Need for Effective Civil Litigation Reform
+, 60 Duke L.J. 547, 549 (2010) (same) (citing Louis Harris & Assocs.,
+Judges’ Opinions on Procedural Issues: A Survey of State and Federal Trial Judges Who Spend at Least Half Their Time on General Civil Cases
+, 69 B.U. L. Rev. 731, 733 (1989) (reporting a poll of trial judges and finding that many noted that abuse of discovery “is the most important cause of delays in litigation and of excessive costs”)).
+that concern justifiably implies continuing agitation for reform and dominates responses for remedial actions. Two other major stages of pretrial proceedings that supply litigants and lawyers with lush opportunities for inefficiency and waste score high on the list of concerns, though much less is said about them: (1) motions to dismiss pursuant to Federal Rule 12(b);
+5
+Fed. R. Civ. P. 12(b).
+and (2) motions for summary judgment pursuant to Federal Rule 56.
+6
+Fed. R. Civ. P. 56.
+In practice, these sources also serve as procedural wellsprings from which litigation draws bountiful ways and means by which to enlarge the needless expense, prolong the duration, and expand the abuses that characterize many lawsuits.
+In some cases, the costs and delays that motion practice under these procedures generate potentially could match or even eclipse those associated with evidentiary discovery. Yet, examination of their role among the causes of discontent stirring the legal community’s concerns over excessive litigation and extreme lawyering has not received the attention the inquiry deserves. Inasmuch as they constitute significant generators of excessive litigation, an extensive overhaul of these proceedings geared to eliminate the substantial waste and disutility they create could yield material improvements for the justice system. An undertaking so designed might yet secure the officially avowed but in actual practice too often ignored purposes of Rule 1: “just, speedy, and inexpensive determination of every action and proceeding.”
+7
+Fed. R. Civ. P. 1.
+The prospect of realizing essential gains for the administration of justice from procedural reform exists especially in connection with Rule 12(b)(6) motions to dismiss.
+8
+In addition to motions to dismiss and motions for summary judgment, other potentially wasteful types of proceedings and stages of litigation about which similar efficiency and economy claims could be made include: drafting of the complaint, motions for reconsideration, and motions to compel arbitration or challenge an arbitrator’s award.
+See generally
+Marrero,
+supra
+note 1, at 1645–70;
+see also
+Jason W. Burge & Lara K. Richards,
+A Compelling Case for Streamlining Venue of Actions to Enjoin Arbitration
+, 88 Tul. L. Rev. 773, 801–03 (2014) (discussing efficiency concerns surrounding procedures governing motions to compel arbitration); Amy J. Schmitz,
+Nonconsensual + Nonbinding = Nonsensical?
+Reconsidering Court-Connected Arbitration Programs
+, 10 Cardozo J. Conflict Resol. 587, 600–02 (2009) (discussing efficiency concerns surrounding the review of arbitration awards).
+Two observations underpin this claim. First, because a motion to dismiss arises early in a lawsuit, it could serve a useful function as a means for the court to provide legal guidance. If successful, the strategy could streamline the action, help settlement, or even dispose of it in whole or in part before the parties proceed into full discovery, a step that tends to alter materially the dynamics of litigation. For the defense bar, these beneficial effects consequently make motion to dismiss practice endearing, and a lifeline to a world of wishful thinking. But when not successful, because filed needlessly, improvidently, or prematurely, motions to dismiss may generate counterproductive results, supplying ample grist for unduly costly and inefficient dispute resolution. Second, as elaborated in Part IV below, alternatives exist for conceptual improvements of both doctrine and procedure governing motions to dismiss and related pretrial proceedings.
+9
+See
+Marrero,
+supra
+note 1, at 1673–84.
+With the preceding considerations in mind, these comments examine some basic issues arising from the law and practice relating to motions to dismiss. The premise of the piece, if perhaps provocative in some lawyerly quarters, is simple. In the day-to-day frontlines and trenches of litigation, Rule 12(b) motions tend to be overused, misused, or abused.
+10
+See
+Marrero,
+supra
+note 1, at 1652–56.
+To the extent this phenomenon holds, some measure of the motions to dismiss filed in federal cases, which this Article contends is substantial, may be contributing to the rising levels of costs and delays and other marks of excessive litigation to the detriment of the civil justice system. Accordingly, any measure that diminishes the incidence of such practice, or that simplifies its scope and application, could translate into a substantial reduction of litigation costs and delays, and thus may enhance efficiency and fairness in the justice system.
+Because the limitations of this forum permit only generalized treatment of the subject, the broad narrative that follows recognizes that more specific, empirical study of the subject is needed. In this light, the present assessment focuses particularly on motions to dismiss filed pursuant to Rule 12(b), and zooms in more specifically on those under subsection 12(b)(6) asserting “failure to state a claim upon which relief can be granted.”
+11
+Fed. R. Civ. P. 12(b)(6).
+The analysis suggests that Rule 12(b)(6) and the standards prescribed to apply its procedure constitute an abundant source of excessive lawyering and litigation inefficiency. The argument concludes that Rule 12(b)(6) as now formulated and employed should be dramatically modified or scrapped altogether.
+The argument is premised on the overarching concern suggested above. Complexity, costs, delays, and abusive practices in federal civil litigation have grown to levels generating substantial unfairness and inefficiency in adjudicating disputes. One cause of this development may be traced to litigation methods that as permitted by rules of procedure or employed in practice generate harmful effects for the administration of justice. To illustrate the existence, scope, and manifestation of the problem, as well as to formulate means to mitigate its effects, this Article focuses analytically on motions to dismiss pursuant to Rule 12(b)(6) filed in securities litigation.
+The discussion that follows proceeds in five parts. Part I reviews the statutory, doctrinal, and empirical foundations of securities actions that have shaped the incidence of motions to dismiss filed in this major area of the law. It posits that securities litigation uniquely constitutes a rich source of motions to dismiss, and that a review of such practice may inform analysis of wasteful litigation more generally. Part II describes the United States District Court for the Southern District of New York (SDNY) Study, an empirical survey measuring the volume of securities actions and motions to dismiss filed in one key federal district court.
+12
+To underscore a point, though the analysis is grounded on motion to dismiss practice as experienced in securities cases, this Article overall is not just about securities litigation, or even about motion to dismiss practice itself. The SDNY Study may, as a stand-alone project, shed light on Rule 12(b)(6) practice in securities litigation. The Article also has the bigger aspirations expressed above. Specifically, it strives to inform the larger debate concerning litigation costs and their broader implications for the justice system.
+Part III contains an analysis of the empirical data reported in the SDNY Study. Part IV proposes a comprehensive program of reforms designed not only to reduce cost and inefficient litigation generated by unnecessary motions to dismiss, but to mitigate the deleterious impacts of other excessive litigation practices referenced in Parts I, II, and III. Part V circles back to the macro scale for some reflections providing a historical overview of the preceding inquiries and pointing to certain conclusions they suggest about the bigger picture.
+I. STATUTORY, DOCTRINAL, AND EMPIRICAL GROUNDING
+A. Antecedents and Hypothesis
+This presentation endeavors to refine and reinforce a point highlighted in the author’s Essay published in 2016 in the
+Cardozo Law Review
+that served as a catalyst for discussion in this forum.
+13
+See generally
+Marrero,
+supra
+note 1.
+As elaborated in those reflections, for various reasons unrelated to the merits of the dispute at issue, a significant amount of federal litigation conducted by motion practice is premature, unnecessary, or unjustifiable. Among the primary reasons driving this development, several forces have particular impact. First, there are flaws in the Federal Rules that enable and even tolerate the filing of wasteful or needless motions.
+14
+See id.
+at 1673.
+Second, some economic imperatives, both on a macro scale and on a granular level particularly affecting the business of law, power intense pressures on lawyers to pursue self-serving methods, which too often subordinate or ignore the imperatives of fair, speedy, and economical resolution of legal disputes.
+15
+See id.
+at 1610–27.
+Third, a collective culture exists in the law profession that, when combined with individual attorneys’ practice styles, embraces too much conscious litigation inefficiency.
+16
+See id.
+at 1632–42.
+To some extent, that outlook even shrugs off abusive practice essentially because in its playbook it is the way everybody does it, as perceived to maximum advantage. And fourth, inadequate case management by the courts, albeit to some degree constrained by the Federal Rules, fails to provide necessary judicial guidance and oversight to check some practitioners’ inborn impulse for excessive lawyering.
+17
+See
+Marrero,
+supra
+note 1, at 1608, 1634, 1639–42;
+see also
+1 Craig Stewart & Gregory E. Goldberg, Business and Commercial Litigation in Federal Courts § 11:7 (Robert L. Haig ed., 4th ed. 2017) (“Judicial management is increasingly insufficient to ensure timely, cost-effective case management and resolution.”).
+These structural weaknesses have shaken the foundations of the justice system and in some measure shifted the ground under the business of law.
+18
+See generally
+Marrero,
+supra
+note 1.
+Litigation is often not only needlessly prolonged and costly, but wasteful and abusive, and spreads its impacts in the form of longer delays and higher expenses for other cases pending court adjudication. Thus, insofar as some proceedings that fill judges’ dockets are unnecessary or excessive, they generate adverse side effects for the parties, counsel, the courts, and ultimately for the administration of justice and the public as a whole. Such untoward consequences arise in both simple and complex cases. Most troubling among them are the constraints they impose on access to justice that squeeze the legal system from two sides: on one side by time and resources parties and courts spend on disputes involving unmeritorious lawsuits and excessive or unnecessary motion practice; and on the other by many more litigants priced out of the market for legal services because of ever-increasing costs.
+To evaluate these contentions as they relate to Rule 12(b)(6) motions to dismiss, the author conducted a study, described in Part II below, which gathered empirical evidence from a survey of such motions filed in securities actions brought in the SDNY during the years 1990 to 2016 (the SDNY Study or the Study). The Study’s focus on securities litigation to inform a review of the effects of motions to dismiss on litigation cost and inefficiency was guided by several considerations. As posited and elaborated below, litigation practice and empirical results recorded in securities cases may serve as an instructive lens through which to examine court proceedings and theorize about whether the observations and conclusions drawn may inform measures for procedural reform more broadly.
+Generally, securities lawsuits are considered among the most complex and enduring disputes that occupy federal courts’ dockets. The standards prescribed by applicable doctrine to state a claim for relief in a securities action, as well as to defend against alleged violations, are expansive and arduous; they derive from an intricate three-tiered structure of overlapping regulations.
+19
+Under the elaborate statutory and doctrinal structure governing securities cases, to proceed with the litigation the parties must satisfy several tests and overcome various hurdles. To state a sufficient claim for relief under Rule 12(b)(6), the pleadings must satisfy the plausibility test promulgated by the Supreme Court in
+Bell Atlantic Corporation v
+.
+Twombly
+, 550 U.S. 544, 570 (2007), and
+Ashcroft v
+.
+Iqbal
+, 556 U.S. 662, 678 (2009).
+See also
+sources cited
+infra
+note 27 and accompanying text. If the case alleges fraud, the complaint must describe the fraudulent conduct with the particularity prescribed by Rule 9(b).
+See
+Fed. R. Civ. P. 9(b). Finally, if filed under the Private Securities Litigation Reform Act of 1995 (PSLRA), the action must comply with the heightened pleading standards established by that statute.
+See
+Pub. L. No. 104-67, 109 Stat. 737 (codified as amended in scattered sections of 15 U.S.C.); sources cited
+infra
+note 37 and accompanying text.
+That framework is grounded in statutory mandates, procedural rules, and Supreme Court doctrine.
+20
+Doctrinally, these standards demand, for instance, a showing of: compelling facts that enable assessment of a particular actor’s knowledge about the conduct at issue and mental state, and then drawing strong reasonable inferences regarding liability; effects of conditions of economic and market forces; different types of economic loss and causal connections to the charged misconduct; misrepresentations and their materiality concerning financial transactions in capital markets; corporate statements by press releases, transaction documents, regulatory filings, and audits that are generally nuanced by the spin businesses customarily employ to pitch good and bad news; in class actions, certification of the eligible plaintiffs’ groupings; and actual or presumed detrimental reliance by investors on any misstatements made in connection with securities transactions.
+See e.g.
+, ATSI Commc’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d 87, 99 (2d Cir. 2007) (“Securities fraud claims are subject to heightened pleading requirements that the plaintiff must meet to survive a motion to dismiss.”); Halliburton Co. v. Erica P. John Fund, Inc., 134 S. Ct. 2398, 2402–04 (2014) (investors can recover damages only if they can show reliance on defendant’s misrepresentation); Basic Inc. v. Levinson, 485 U.S. 224, 231–32 (1988) (fraud-on-the-market theory);
+In re
+ProShares Tr. Sec. Litig., 728 F.3d 96, 102 (2d Cir. 2013) (the “materiality hurdle” is “a meaningful pleading obstacle”); Slayton v. Am. Express Co., 604 F.3d 758, 766 (2d Cir. 2010) (under the PSLRA Safe Harbor provision, a forward-looking statement is not actionable if it “is identified and accompanied by meaningful cautionary language
+or
+is immaterial
+or
+the plaintiff fails to prove that it was made with actual knowledge that it was false or misleading”) (emphasis in original); Rombach v. Chang, 355 F.3d 164, 174 (2d Cir. 2004) (“[P]laintiffs must do more than say that the statements . . . were false and misleading; they must demonstrate with specificity why and how that is so.”). Necessarily, the detailed factual predicates demanded to satisfy these doctrinal elements are extensive, and usually not readily accessible to plaintiffs before discovery, though ordinarily the particulars may be in the possession or control of defendants.
+For the foregoing reasons, preparation of the pleadings and attendant documentation in securities litigation demand, from both plaintiffs and defendants, exceptional investments of time and capital, as well as specialized knowledge of law and economics. Combined, these circumstances materialize in court proceedings occupying voluminous filings. In that context, the many layers of complexities that characterize securities actions present unique burdens and challenges for the courts as well. Judges must contend not only with litigants’ industrial-size submissions, which clog their dockets, but also with a doctrinal mandate to apply standards uniformly perceived as formidably complex and vague. The applicable rules demand the exercise of uniquely subjective or normative judgments, like, for instance, whether a particular claim as pleaded is “sufficient” or “plausible” or demonstrates a “strong” inference of fraud.
+21
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009); Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007); Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 314 (2007).
+Because securities litigation thus consumes inordinate resources of all concerned—litigants, counsel, and the courts—a review of such actions may provide instructive grounds to test the proposition advanced in this review. The results so produced may also serve as a microcosm by spotting practices that prevail not only in securities actions, but in civil litigation more broadly. In this light, the Study hypothesizes that to the extent there is a disquieting measure of excess in litigation generally, and particularly in connection with the incidence and practice regarding motions to dismiss, the dark side of that experience is likely to manifest with especially pronounced and probably disproportionate dimensions in the context of securities cases. Moreover, how litigants, counsel, and courts respond to adjustments of doctrines and rules applicable to securities proceedings that are specifically devised to avoid, streamline, or expedite resolution of such lawsuits may be revealing. That experience may assist not only in confirming the existence and scope of the problem, but in designing responsive reforms.
+22
+As a whole, the considerations outlined above, as further documented below, help explain why securities litigation serves as particularly fertile soil in which Rule 12(b) motions to dismiss flourish. Several empirical studies, for example, have variously recorded the rate of motions to dismiss filed in federal court litigation as ranging from approximately 5–12% in all or some of the major categories of cases.
+See, e.g.
+, Roger Michalski & Abby K. Wood, Twombly
+and
+Iqbal
+at the State Level
+5 n.19 (Journal of Empirical Legal Studies, Paper No. 14-30, 2016) (“Affected cases are the 5%of cases in which an MTD is filed[.]”); Jonah B. Gelbach,
+Locking the Doors to Discovery? Assessing the Effects of
+Twombly
+and
+Iqbal
+on Access to Discovery
+, 121 Yale L.J. 2270, 2326–27 (2012) (noting a motion to dismiss filing rate of 12.1% in employment discrimination and civil rights cases); William H.J. Hubbard,
+The Empirical Effects of
+Twombly
+and
+Iqbal 3 (Coase-Sandor Inst. for Law & Econ., Working Paper No. 773, 2016) (“In 2010, motions to dismiss were filed in only 6[%] of cases . . . .”). By contrast, as expected, the incidence of such motions filed in securities actions may be disproportionately higher. In the SDNY Study, the rate averaged approximately 31% in the last twenty years, with about 40% recorded most recently.
+See infra
+Section II.C. And according to another review based on a broader sample of securities litigation from other districts, motions to dismiss were filed in 96% of the class actions examined.
+See
+Wendy Gerwick Couture, Remarks,
+Around the World of Securities Fraud in Eighty Motions to Dismiss
+, 45 Loy. U. Chi. L.J. 553, 553 (2014).
+On this point, a caveat is in order. Admittedly, the dimensions of the problem highlighted here cannot be calculated with mathematical certainty. In large measure, marks of its prevalence may be shown circumstantially, and captured only in hazy outlines and shadows. But, like a malignancy imaged on a dyed x-ray film, if imprecisely defined and ill-understood, it is still very much there.
+In this light, to the extent that a significant disparity exists in the rate of filing motions to dismiss in securities cases relative to other actions, understanding the reasons for the difference may usefully inform how and how much of such motion practice may be excessive in some proceedings. The analysis may also help spotlight the major forces that impel wasteful litigation, as well as suggest ways by which unnecessary motions might be deterred or reduced.
+23
+See
+Marrero,
+supra
+note 1, at 1652–56, 1677–78.
+Doctrinal and practice improvements that curtail motions to dismiss could thus induce corresponding economies, specifically by mitigating the significant time and resources that litigants and courts now devote to needless or avoidable proceedings.
+B. PSLRA and
+Twombly
+/
+Iqbal
+A disproportionate rate of motions to dismiss filed in securities cases appears to be an outgrowth of two fundamental developments. First is Congress’s design, by means of the Private Securities Litigation Reform Act (PSLRA),
+24
+See
+Private Securities Litigation Reform Act of 1995, Pub. L. No. 104-67, 109 Stat. 737 (codified as amended in scattered sections of 15 U.S.C.).
+to curtail baseless securities actions that, critics charged, many claimants file predominantly for coercive and settlement value. To this purpose, the statute heightened the pleading standard plaintiffs must satisfy to defeat a motion to dismiss. Second, fourteen years after the enactment of the PSLRA, the applicable federal court pleading threshold governing review of Rule 12(b)(6) motions was rendered even more rigorous by two Supreme Court decisions,
+Twombly
+25
+550 U.S. 544 (2007)
+.
+in 2007 and
+Iqbal
+26
+556 U.S. 662 (2009)
+.
+in 2009. Those rulings discarded the lenient philosophy embodied by the generalized “notice” pleading norm, which had prevailed in federal practice since the adoption of the Federal Rules in 1938.
+27
+See
+Alexander A. Reinert,
+Measuring the Impact of Plausibility Pleading
+, 101 Va. L. Rev. 2117, 2125–27 (2015); Joe S. Cecil, George W. Cort, Margaret S. Williams, & Jared J. Bataillon, Fed. Judicial Ctr., Motions to Dismiss for Failure to State a Claim After
+Iqbal
+vii (2011), http://‌www.fjc.gov/‌sites/‌default/‌files/‌2012/‌MotionIqbal.pdf [https://‌perma.cc/‌H8SZ-ESQP] [hereinafter FJC Study] (finding that, after
+Twombly
+and
+Iqbal
+, there was a “general increase . . . in the rate of filing of motions to dismiss for failure to state a claim”).
+Instead, to evaluate the sufficiency of civil case pleadings, the Court promulgated a purportedly more exacting “plausibility” doctrine.
+28
+See
+William H.J. Hubbard,
+A Fresh Look at Plausibility Pleading
+, 83 U. Chi. L. Rev. 693, 694 (2016); Note and Comment, Joseph W. Owen,
+A Plausible Future: Some State Courts Embrace Heightened Pleading After
+Twombly
+and
+Iqbal, 36 N.C. Cent. L. Rev. 104, 104–05 (2013).
+As they apply to securities litigation, these developments gave rise to several basic questions that could help illuminate the issues and propositions these observations point to. Did the passage of the PSLRA, alone or coupled with the later impact of the
+Twombly/Iqbal
+doctrine, cause any material difference in the extent to which: (1) plaintiffs commenced securities actions; (2) defendants filed motions to dismiss in those cases; (3) the courts granted, denied, or otherwise disposed of such motions; and (4) litigation was prolonged or otherwise made more complex by qualitative adjustments in counsel’s pleading strategies or professional practices?
+29
+The SDNY Study endeavored to examine whether the PSLRA or
+Twombly/Iqbal
+doctrine had any significant effect on the length of time judges devoted to deciding motions to dismiss. This aspect of the project was not completed because the initial analysis did not account for the effects of a variable that could substantially affect the results: the number of judges on the court at a given point, a measure that changes over time. In some instances, that change may be large enough to produce a statistically significant difference in results. Other studies, however, noted that
+Twombly
+/
+Iqbal
+, perhaps combined with pleading effects produced by the PSLRA, may have induced plaintiffs to file longer and more detailed complaints.
+See
+infra
+sources cited notes 39, 56 and accompanying text.
+The empirical data gathered for the SDNY Study suggest several essential findings, which are detailed below. To summarize, following the passage of the PSLRA and the Supreme Court’s rulings in
+Twombly/Iqbal
+, the number of securities actions plaintiffs brought in the SDNY declined by 17%.
+30
+See infra
+Section II.C.1.
+At the same time, in the cases brought post-PSLRA up to 2016, on average defendants filed motions to dismiss in 41% more cases than they did prior to the passage of the PSLRA
+31
+See infra
+Section II.C.2.
+—a significant amount—and the total number of motions to dismiss defendants filed within that time span increased by 73%. But despite the more exacting pleading requirement imposed by statute and Supreme Court doctrine, and consistent with the findings of various other studies of the effects of
+Twombly/Iqbal
+, the rate at which SDNY judges granted or denied such motions in securities actions remained relatively unchanged.
+32
+See infra
+Section II.C.3.
+The SDNY Study further confirmed another important phenomenon. A significant number of motions to dismiss were filed for which there is no record of disposition by the court. Presumably, such motions were either abandoned or withdrawn by plaintiffs for reasons of settlement, mootness, or informal court guidance. In this respect as well, the data that the SDNY Study gathered records higher empirical results than similar findings of this phenomenon reported in other studies performed in the context of motion to dismiss practice more broadly.
+Hence, at bottom, one overarching conclusion emerged from the SDNY Study. Two major efforts by Congress and the Supreme Court to curb securities litigation and related motion practice may have succeeded only in part in achieving its essential purpose: diminishing the overall volume of securities litigation. Concurrently, however, there was a significant increase in the rate at which motions to dismiss were filed in the lower number of new cases brought. This phenomenon raises a basic question for which further empirical research and analysis would be necessary: whether any economies engendered by the decline in the total number of new securities actions commenced would be offset by larger costs and longer delays for the litigants and counsel by the higher incidence of cases that generated motions to dismiss.
+II. THE SDNY STUDY
+A. Basis
+In 1995, Congress passed the PSLRA
+33
+See
+Private Securities Litigation Reform Act of 1995, Pub. L. No. 104-67, 109 Stat. 737 (codified as amended in scattered sections of 15 U.S.C.).
+in an effort to curtail the filing of frivolous securities lawsuits in federal court.
+34
+See In re
+Comshare, Inc. Sec. Litig., 183 F.3d 542, 548 (6th Cir. 1999) (quoting legislative history);
+see also
+Sharon Nelles & Hilary Huber,
+Pleading Securities Fraud Claims: The Good, the Bad, and the Ugly
+, 45 Loy. U. Chi. L.J. 653, 654 (2014) (“The PSLRA ‘was intended to address concerns that had been raised about abuses believed to be associated with securities class action lawsuits.’”) (quoting U.S. Sec. & Exch. Comm’n, Office of the Gen. Counsel, Report to the President and the Congress on the First Year of Practice Under the Private Securities Litigation Reform Act of 1995 5–6 (1997)).
+To this end, the statute, intending to limit the number of cases that survive the motion to dismiss phase of litigation, imposed heightened pleading requirements on plaintiffs.
+35
+See
+In re
+Comshare
+, 183 F.3d at 548–49; Pamela A. Haun,
+Civil Procedure—
+Hoffman v. Comshare, Inc.
+(
+In Re Comshare, Inc. Securities Litigation
+): Pleading with Particularity Under the 1995 Private Securities Litigation Reform Act
+, 30 U. Mem. L. Rev. 651, 657–58 (2000).
+It applies primarily to civil suits filed pursuant to Section 10(b) of the Securities Exchange Act of 1934 (Exchange Act)
+36
+See
+15 U.S.C. § 78j (2012).
+and Rule 10b-5 promulgated thereunder by the Securities and Exchange Commission (SEC).
+37
+See
+17 C.F.R. 240.10b-5 (2018).
+Together, these measures seek to protect investors from fraudulent or deceptive practices that negatively impact the value of securities and thus potentially impair the integrity and stability of public capital markets.
+38
+See
+Adam C. Pritchard & Hillary A. Sale,
+What Counts as Fraud? An Empirical Study of Motions to Dismiss Under the Private Securities Litigation Reform Act
+, 2 J. Empirical Legal Stud. 125, 126–28 (2005). The PSLRA raised pleading standards by requiring that any complaint alleging an untrue statement of material fact or a misleading material omission of fact “specify each statement alleged to have been misleading, the reason or reasons why the statement is misleading, and, if an allegation regarding the statement or omission is made on information and belief, the complaint shall state with particularity all facts on which that belief is formed.” 15 U.S.C. § 78u-4(b)(1)(B) (2012). Additionally, the statute requires that allegations “state with particularity facts giving rise to a strong inference that the defendant acted with the required state of mind.”
+Id.
+at § 78u-4(b)(2)(A). Lastly, the PSLRA makes it easier for courts to impose sanctions for abusive litigation.
+See id.
+at § 78u-4(c).
+B. Methodology and Scope
+The SDNY Study sought to ascertain the effects, if any, of the PSLRA on securities lawsuits by analyzing the incidence of securities case filings and related motions to dismiss. For this purpose, the Study performed a longitudinal analysis of all securities lawsuits and attendant motions to dismiss filed in the SDNY from 1990 through 2016.
+39
+To compile the data for the SDNY Study, the author first created a report, pulled from the SDNY electronic docket filing system, listing every case filed from 1990 to 2016 that brought a claim for relief based on the Exchange Act. The author then analyzed the electronic docket of each case, recording when the case was filed, when any motions to dismiss were filed, when the court decided those motions, and the decision of the court with respect to each motion. The SDNY Study was thereby based on a broad dataset of securities actions filed in the SDNY during a 27-year span, as well as all motions to dismiss filed in those cases. Because the dataset covers all cases filed under the Exchange Act in the SDNY, it is overbroad with respect to actions to which the PSLRA applies; for example, the dataset includes cases filed by government parties, such as the Securities Exchange Commission (SEC), to which the PSLRA would not apply. However, a randomized check of more than 1,000 of the cases included in the dataset indicates that the PSLRA would apply to more than 90% of the cases. While the dataset is somewhat overbroad with respect to an analysis of the effects of the PSLRA, the advantage of its breadth is that the SDNY Study is able to broadly track trends in all securities litigation in the SDNY. The dataset is on file with the author, and any references in this Article to the findings of the SDNY Study refer to results captured in that dataset.
+The data gathered thus covered the period both before and after the enactment of the PSLRA, and provided a basis to assess whether any changes occurred in the number of securities actions and motions to dismiss filed. Accordingly, the Study’s tally of (1) the total number of securities actions commenced per year, (2) the number of motions to dismiss filed per case, and (3) the court’s dispositions of those motions, enabled analysis of the securities litigation caseload, and may also offer insight into potential effects of the statute on the quality of the pleadings in those cases.
+40
+Studies of the length and quality of pleadings suggest that in recent years plaintiffs have filed longer and more detailed complaints. Though these assessments relate to the effects of
+Twombly
+/
+Iqbal
+’s more stringent pleading standard, the same logic and experience should support an inference that the PSLRA’s stricter rule would produce a similar phenomenon.
+See
+sources cited
+infra
+note 56 and accompanying text;
+see, e.g.
+, Jason A. Cantone, Joe S. Cecil & Dhairya Jani,
+Whither Notice Pleading?: Pleading Practice in the Days Before
+Twombly, 39 S. Ill. U. L.J. 23, 66 n.257 (2014) (“Preliminary findings involving a limited number of cases suggest that
+Twombly
+and
+Iqbal
+may have resulted in an increase in the quantity of facts pleaded . . . .”) (italics added); Lucas F. Tesoriero,
+Pre-
+Twombly
+Precedent: Have Leatherman and Swierkiewicz Earned Retirement Too?
+, 65 Duke L.J. 1521, 1548 (2016) (“[P]arties are now forced to spend more time preparing a complaint, to state more facts without the benefit of pretrial discovery, and to perhaps even increase the length of their pleadings to preemptively fend off challenges under
+Iqbal
+.”). This aspect of the SDNY Study was not completed based on a significant enough sample in time to report the results in connection with this special issue.
+See supra
+note 28;
+infra
+note 56 and accompanying text.
+The Study concluded that overall the volume of securities litigation did not change materially following the passage of the PSLRA, but that the relative rate of cases in which motions to dismiss were filed rose by a significant amount.
+41
+See infra
+Section II.C.
+Nonetheless, though facing a workload enlarged by the filing of more motions to dismiss, courts granted approximately the same percentage of such motions before and after the PSLRA went into effect.
+42
+See infra
+Section II.C.
+On this basis, the Study suggested that SDNY judges encountered a higher rate of motions to dismiss in securities cases after the passage of the PSLRA than they experienced before the legislation.
+43
+See infra
+Section II.D.
+1. Scope of Research
+The scope of the SDNY Study was limited to an empirical examination and analysis of actions involving securities claims filed in the SDNY.
+44
+In 2005, Adam C. Pritchard and Hillary A. Sale published a study which surveyed the resolution of motions to dismiss under the PSLRA.
+See
+Pritchard & Sale,
+supra
+note 37. The study examined the implementation of the PSLRA by the courts and the considerations that guide PSLRA judicial decisions in the Ninth and Second Circuits. The study’s sample size, however, was limited to a total of 213 cases decided in those two circuits from the passage of the PSLRA to 2002. Of those 213 cases, the study further narrowed the sample size to 155 decisions, 66 of which were decided in the Second Circuit and 89 in the Ninth Circuit.
+See id.
+at 139. The analysis then tested a total of nine hypotheses, with a focus on complaints involving accounting fraud, insider trading, securities offerings made during a class period, merger negotiations, forward-looking statements, claims brought under the 1933 Act, and claims brought by the law firm Milberg Weiss.
+See id.
+at 134–39. From the 155 decisions ultimately tested, the study found that the most dramatic difference was the large discrepancy in percentage of motions the courts granted: 36% by the Second Circuit and 63% by the Ninth Circuit.
+See id.
+at 142. From these results the authors concluded that the “Ninth Circuit declared its intent to adopt a standard more stringent than the Second Circuit’s, and plaintiffs are now more likely to see their cases dismissed in that circuit.”
+Id.
+at 148. While the Pritchard and Sale study focuses on differences in motion practice between different appellate jurisdictions after the enactment of the PSLRA, the SDNY Study focuses on any changes effectuated by the PSLRA by comparing pre- and post-PSLRA filings in the SDNY.
+The SDNY represents an important venue for this research because a significant percentage of securities lawsuits commenced in the United States are filed in that court.
+45
+Studies indicate that the highest volume of securities cases filed in the United States is recorded in the SDNY (including filings also made in state courts).
+See, e.g.
+, Kevin LaCroix,
+2016 Securities Lawsuit Filings Surge to Record Levels
+, The D&O Diary (Jan. 2, 2017), https://‌www.dandodiary.com/‌2017/‌01/‌articles/‌securities-litigation/‌2016-securities-lawsuit-filings-surge-record-levels [https://perma.cc/AN2J-VPEW] (stating that 22% of all securities class actions filed in the United States in 2016 were filed in the SDNY, which was the court with “[b]y far” the highest number of filings); Kevin LaCroix,
+Securities Suit Filings at Historically High Levels During 2017
+, The D&O Diary (Jan. 1, 2018), https://‌www.dandodiary.com/‌2018/‌01/‌articles/‌securities-litigation/‌securities-suit-filings-historically-high-levels-2017 [https://‌perma.cc/‌A2RT-CFNE] (stating that the federal court with the “highest number of securities suit filing[s] in 2017 was the [SDNY],” and that 15.5% of all securities class actions filed in 2017 were filed in the SDNY);
+see also 2010 a Record Year for Securities Litigation: An Advisen Quarterly Report–2010 Review
+, Advisen ltd, at 4, https://‌www.advisenltd.com/‌wp-content/‌uploads/‌sec_lit_Q42010_report.pdf (last visited Sept. 4, 2018) [https://‌perma.cc/‌WX9T-YE4D] (finding that 10% of all securities cases filed in 2010, including state court filings, were filed in the SDNY).
+Moreover, New York City is home to two of the nation’s largest stock exchanges, the New York Stock Exchange (NYSE) and the NASDAQ Stock Market, and it is widely regarded as the corporate capital of the United States. As such, the SDNY’s docket may serve as a valuable bellwether for an assessment of the PSLRA’s possible impact on the volume and quality of filings, pleadings, motion practice, and dispositions in securities cases.
+The SDNY Study endeavored to identify litigation trends through the juxtaposition of filings and motion practice preceding the enactment of the PSLRA (the years 1990–1995), with those that followed (the years 1996–2016). Accordingly, it surveyed cases brought from 1990 to 2016.
+46
+Omitted from the review are data from 2001 to 2003. Those years have the characteristics of statistical outliers or anomalies as they are marked by an exponential increase in the number of cases filed as compared to the previous eleven years as well as the following fourteen years. For a possible explanation of that phenomenon, see
+infra
+note 51. In 2000, for example, 326 securities cases were filed, while in 2001 there were 1391, 952 in 2002, and 646 in 2003.
+See
+Chart 1: SDNY PSLRA Filings 1990–2016,
+infra
+Section II.C. Such an exponential increase in cases filed risks skewing the data and is therefore excluded from the analysis.
+In total, the Study reviewed 7,328 cases, the sum amounting to all securities cases filed in the SDNY within the specified period.
+47
+See
+supra
+note 38; Chart 1: SDNY PSLRA Case Filings 1990–2016,
+infra
+Section II.C.
+During those years, 4,620 motions to dismiss were filed in those cases. Of these, the courts granted 1,535, denied 938, granted in part and denied in part 532, and left 1,615 undecided.
+2. Case Categories and Methodology
+a. Categories
+The Study classified all motions to dismiss filed in the cases into four categories. The classification comprised motions that the courts (1) granted in their entirety, including those granted without prejudice, meaning that the plaintiff was given leave to amend the complaint; (2) denied fully; (3) took no action granting or denying, but ordered termination of the motion (e.g., for mootness), or else the moving party withdrew or abandoned it before the court reached a decision; and (4) granted in part and denied in part as to particular claims or defendants.
+b. Calculation Methodology
+To calculate the percentage of motions to dismiss that courts granted or denied, the Study adopted the common formula which divides the number of motions granted or denied in their entirety by the total number of motions filed in a given year.
+48
+There is another formula which could yield significantly different results. Under the alternative approach, the number of motions to dismiss granted would be divided by the sum of the number of motions denied as well as those that were granted in part and denied in part. In effect, this formula would isolate the percentage of all motions filed that were granted in their entirety as a percentage of those that received consideration and determination by the courts. For this purpose, it would exclude from the denominator motions to dismiss filed but not acted upon by the courts. In the interest of consistency with the methodology employed by other examinations of the same issue, the SDNY Study adopted the standard formula.
+The formula thus does not count as granted those motions that were granted in part and denied in part since the outcome of such dispositions would not result in a resolution of the entire dispute and the action presumably would proceed into the discovery phase of litigation.
+c. Events Considered: the PSLRA and
+Twombly
+and
+Iqbal
+In analyzing the data gathered for the Study, it was essential to consider two significant legal events that potentially could have affected motion to dismiss practice in securities cases: the effects of the PSLRA and the combined impact of two Supreme Court decisions,
+Bell Atlantic Corporation v. Twombly
+49
+550 U.S. 544 (2007)
+.
+and
+Ashcroft v. Iqbal
+.
+50
+556 U.S. 662 (2009).
+The PSLRA raised pleading requirements applicable to securities actions, and
+Twombly/Iqbal
+together heightened the pleading doctrine governing all federal lawsuits. Because the SDNY Study focused on effects the PSLRA produced in relation to SDNY motions to dismiss filed in securities cases, it must account for any material changes in the data attributable to the
+Twombly
+and
+Iqbal
+decisions, as opposed to the PSLRA by itself. The Study therefore conducted two analyses of the information as it pertained to both the enactment of the PSLRA and the
+Twombly/Iqbal
+rulings so as to assess each event’s potential effect on case filings and motion practice. The first analysis compared figures recording filings of PSLRA actions and motions prior to the PSLRA’s enactment with those experienced following the statute’s entry into force in 1996. The second analysis examined whether the heightened plausibility pleading test promulgated by
+Twombly
+and
+Iqbal
+may have had an effect on motions to dismiss filed in SDNY securities litigation since the passage of the PSLRA.
+51
+Several studies have been written on the impact of the
+Twombly
+and
+Iqbal
+decisions on motion to dismiss practice in all types of disputes, not just in the securities context. For example, a 2011 Federal Judicial Center report found that “[t]here was a general increase from 2006 to 2010 in the rate of filing of motions to dismiss for failure to state a claim.” FJC Study,
+supra
+note 26, at vii. The FJC Study also found that there was a 2.2% increase in the number of motions to dismiss for failure to state a claim filed in 2009–2010 (after
+Twombly
+and
+Iqbal)
+when compared to 2005–2006 figures, which predate the two decisions.
+See id.
+at 8. Of the 49,443 cases examined that were filed between 2005–2006, 4% included the filing of a motion to dismiss for failure to state a claim within ninety days of the date the case commenced, while in 2009–2010, 6.2% of the 52,925 cases involved a motion to dismiss for failure to state a claim filed within the first ninety days.
+See id.
+at 9. In their analysis, the authors nevertheless noted that the impact of
+Twombly
+and
+Iqbal
+was significantly smaller than initially thought.
+See id.
+at 16 (“Nevertheless, if the district courts were interpreting
+Twombly
+and
+Iqbal
+to significantly foreclose the opportunity for further litigation in the case, we would expect to see an increase in cases terminated soon after the order. However, . . . we found no statistically significant increase in 2010 in the percentage of cases terminated in 30 days, 60 days, or 90 days after the order granting the motion. Nor did we find differences in termination rates across individual types of cases.”);
+see also
+Kendall W. Hannon,
+Much Ado About
+Twombly
+? A Study on the Impact of
+Bell Atlantic Corp. v. Twombly
+on 12(b)(6) Motions
+, 83 Notre Dame L. Rev. 1811, 1815 (2008) (concluding that “despite sweeping language and the ‘retirement’ of fifty-year-old language, the new linguistic veneer that the Court [in
+Twombly
+] has placed on Rule 8(a) and 12(b)(6) [of the Federal Rules] appears to have had
+almost
+no substantive impact” in most cases) (emphasis added); Hubbard,
+supra
+note 21, at 6 (“Every published study of the effect of
+Twombly
+on dismissal rates has found no statistically significant effect. . . . Studies on
+Iqbal
+, or the combined effect of
+Twombly
+and
+Iqbal
+, largely reach the same conclusion.”); Hubbard,
+supra
+note 27, at 21 (“[I]t appears that the effect of
+Twombly
+and
+Iqbal
+on complaint drafting was modest and the effect on pleading outcomes was nil.”).
+The analysis of
+Twombly
+and
+Iqbal
+compared data from the years following the passage of the PSLRA but before
+Twombly
+and
+Iqbal
+(1996–2006) with data from the years following those decisions (2009–2016). The Study thereby accounted for any changes in the post-PSLRA data attributable to
+Twombly/Iqbal
+and isolated any trends in the post-PSLRA data attributable to the statute as opposed to the Supreme Court decisions.
+C. Findings
+This Section applies the methodology described above to the data collected so as to analyze whether the PSLRA produced any changes in (1) case filings, (2) the volume of motions to dismiss filed per year and per case, and (3) the percentage of such motions granted or denied, in whole or in part.
+Chart 1. SDNY PSLRA Case Filings 1990–2016
+1. Findings on the Volume of Cases
+a. Pre- vs. Post-PSLRA
+From 1990 to 1995, the year before the PSLRA went into effect, an average of 315 securities actions were filed each year in the SDNY. That number declined sharply in 1996, with a total of 173 actions filed, compared to 353 in the previous year. The sudden drop in filings experienced that year could be explained by the uncharted scope of the newly enacted PSLRA and plaintiffs’ uncertainty regarding the manner in which courts would construe and apply the new statute.
+Whatever caused the decrease in SDNY securities actions in 1996, the decline was short-lived. Case filings returned to pre-PSLRA levels within the next three years. In 1997, 222 securities lawsuits were commenced. And the volume of securities actions continued to increase in subsequent years, peaking at 399 in 1998. In 1999, 254 cases were filed, and 326 in 2000. Between 1997 and 2000, on average 300 cases were filed each year, marking a slight, albeit insubstantial, decrease when compared to pre-1996 figures when an average of 315 actions were filed per year.
+In 2001, there was an exponential increase in the number of SDNY securities cases filed. This sharp increase could be a result of the so-called “Dot-Com bubble,” which culminated in the stock market crashes of the early 2000s.
+52
+The emergence of a “Dot-Com bubble,” which began in the late 1990s, was fueled in large part by investor overconfidence in the profitability of the Internet. When investors realized that massive investments failed to yield profits, a panic ensued that saw speculators rush to sell their stocks in early March 2000, sparking, in turn, the rapid devaluation of stock market value.
+See
+David Cheng,
+Interpretation of Material Adverse Change Clauses in an Adverse Economy
+, 2009 Colum. Bus. L. Rev. 564, 580 n.83 (“The Dot-com crash wiped out $5 trillion in market value of technology companies on NASDAQ from March 2000 to October 2002.”); Jorn Madslien,
+Dotcom Bubble
+Burst: 10 Years On
+, BBC News, http://‌news.bbc.co.uk/‌2/‌hi/‌business/‌8558257.stm [https://‌perma.cc/‌2JVQ-ZJ6L] (last updated Mar. 9, 2010, 11:27 PM);
+The Dot-Com Bubble Bursts
+, N.Y. Times (Dec. 24, 2000), http://‌www.nytimes.com/‌2000/‌12/‌24/‌opinion/‌the-dot-com-bubble-bursts.html.
+The number of securities lawsuits filed ebbed in 2004. From 2004 to 2016, an average of 320 actions were filed per year, signaling a return to pre-PSLRA case figures and supporting an inference that the statute has had no material long-term effects on the volume of securities cases filed.
+b. Pre- vs. Post-
+Twombly
+and
+Iqbal
+From 2010 onward, the average number of SDNY securities cases filed per year decreased, likely due to the combined effect of
+Twombly
+and
+Iqbal
+. Between 1996 and 2006, excluding outlier years of 2001–2003, the average of securities lawsuits filed per year was 320. That figure decreased by 17% in the years following
+Twombly/Iqbal
+, averaging 264 per year for the period from 2010 to 2016.
+53
+Note that this subsection records statistics only after the years 2007 and 2009 (the years
+Twombly
+and
+Iqbal
+were decided, respectively) so as to reduce the number of unrelated variables that could affect the analysis of collected data.
+2. Findings on Motion to Dismiss Filings
+a. Pre- vs. Post-PSLRA
+Prior to the enactment of the PSLRA (the period from 1990 to 1995), an average of 121 motions to dismiss were filed per year in securities cases in the SDNY. The average number then increased to 155 for the years 1996–2000. That average continued to rise, reaching 231 for the years 2004–2016. Excluding the outlier years of 2001–2003, the average number of motions filed per year following the PSLRA’s enactment was 210, representing a 73% increase from pre-PSLRA figures.
+Similarly, the percentage of cases in which a motion to dismiss was filed rose dramatically since the passage of the PSLRA. During the period from 1990 to 1995, a motion to dismiss was filed in 22% of cases. From 1996 to 2016 (excluding 2001–2003), a motion to dismiss was filed in 31% of securities cases in the SDNY, with an average of 40% recorded in the most recent three years. Stated otherwise, since the passage of the PSLRA, defendants filed motions to dismiss in 41% more cases than they did prior to the Act’s passage.
+b. Pre- vs. Post-
+Twombly
+/
+Iqbal
+The increase in motion practice reported above does not appear to be solely attributable to
+Twombly
+/
+Iqbal
+. In fact, while from 1996 to 2006 (excluding 2001–2003), an average of 184 motions to dismiss were filed per year, from 2010 to 2016 that average decreased by approximately 4% to 177 motions per year.
+54
+Note that the years 2007–2009 are excluded from the analysis due to the possible impact of
+Twombly
+and
+Iqbal
+, decided in 2007 and 2009, respectively, given the interdependence of both of these decisions, which are customarily read together.
+This decrease is likely the result of the decline, described above, in the number of SDNY securities case filings since
+Twombly
+/
+Iqbal.
+Yet, the percentage of cases in which motions to dismiss were filed increased since those decisions. The point stands, however, that the rise in the percentage of cases with motions to dismiss filed since the passage of the PSLRA appears to predate
+Twombly
+/
+Iqbal
+and cannot be explained by those decisions alone.
+Chart 2. Total Cases v. Cases with Motions
+3. Percentage of Motions Granted/Denied
+a. Pre- vs. Post-PSLRA
+Applying the standard percentage formula, during the pre-PSLRA period between 1990 and 1995, SDNY judges granted in their entirety an average of 35% of the motions to dismiss filed.
+55
+This figure requires explanation, qualification, and more refinement. The Study’s research captured all Rule 12(b)(6) motions granted without further parsing of the basis on which the dismissal rested. But, as discussed below, as its scope has evolved, Rule 12(b)(6) applies to two distinct types of motions to dismiss.
+See infra
+Part IV. One subset encompasses motions grounded on what are essentially legal matters that bar relief, while the other turns on the sufficiency of the factual details pleaded in the complaint to state a substantive claim. The difference is significant because, as also elaborated below, the standard for dismissal under the second category is more demanding.
+See infra
+Part IV
+.
+Thus, as a hypothesis requiring further research and analysis, the rate at which such motions are granted in full is likely to be significantly lower than the rate regarding motions that fall within the first type. That rate of motions fully granted is likely skewed for another reason. Courts reviewing motions to dismiss based on theories resting on both legal barriers and factual sufficiency often rule on the legal grounds and tend not to reach the motions’ factual challenges.
+Between 1996 and 2016 (excluding 2001–2003), that rate decreased slightly to a cumulative average of approximately 33%. Overall, the PSLRA resulted in only a small drop in the percentage of motions to dismiss that courts granted.
+b. Pre- vs. Post-
+Twombly
+and
+Iqbal
+The average of motions to dismiss that SDNY judges granted in full pre-
+Twombly
+/
+Iqbal
+decreased by one percentage point, from 35% for the years 1996–2006 to 34% for 2010–2016. Accordingly,
+Twombly
+and
+Iqbal
+appear to have had little to no impact on the rate of motions to dismiss that courts in the SDNY granted in the context of securities litigation.
+56
+This finding parallels the results reported by other studies in relation to court dispositions of motions to dismiss filed in a broader category of cases and a larger selection of district courts.
+See, e.g.
+, Hubbard,
+supra
+note 21, at 6 (“Every published study of the effect of
+Twombly
+on dismissal rates has found no statistically significant effect. . . . Studies on
+Iqbal
+, or the combined effect of
+Twombly
+and
+Iqbal
+, largely reach the same conclusion.”).
+Chart 3. Motions to Dismiss Filed Per Year
+D. Conclusion
+The data demonstrate that the PSLRA had little or no effect on the total number of securities lawsuits brought per year in the SDNY. Nonetheless, since the passage of the PSLRA, the average number of motions to dismiss filed per year in SDNY securities lawsuits increased by 73%. This increase was not attributable to
+Twombly
+and
+Iqbal
+, as the data indicate that the number of motions filed per year actually decreased marginally since those cases were decided. Thus, while the volume of securities litigation did not change materially since the passage of the PSLRA, the relative rate of cases with motions to dismiss increased significantly. Moreover, the hypothesis that the PSLRA’s enactment would result in a higher percentage of motions to dismiss that courts grant in securities cases was not borne out by the results of the SDNY Study. Instead, the data suggest that the PSLRA had little or no impact on the percentage of motions that the courts granted in full.
+While the PSLRA was meant to limit the number of unmeritorious securities lawsuits brought, the statute by itself seems to have had minimal impact on the number of securities actions filed or on the percentage of cases dismissed at the pleading stage,
+57
+It is still possible that since the passage of the PSLRA, fewer frivolous securities lawsuits are filed. Some studies have suggested that one of the unexpected results of the PSLRA was to increase the general quality of complaints filed in securities cases.
+See
+Michael A. Perino,
+Did the Private Securities Litigation Reform Act Work?
+, 2003 U. Ill. L. Rev. 913, 916–17 (“These data suggest at least two explanations. One possibility is that stricter application of the PSLRA’s heightened pleading standard may cause plaintiffs’ attorneys to bring better quality cases. Stricter application may also create greater risk for plaintiffs’ attorneys and therefore cause them to focus on cases in which potential damages are greater.”); Martin D. Chitwood, Lauren E. Wagner, & M. Krissi Temple,
+Private Securities Litigations Reform Act of 1995 (2001 Update)
+, Chitwood & Harley 2 (Nov. 9, 2001), http://‌www.chitwoodlaw.com/‌downloads/‌CLE_‌Paper_‌PSLRA_‌2001.pdf [https://‌perma.cc/‌H42Y-2SNY] (“In fact, post-reform litigation is producing much larger recoveries for plaintiffs. [While] [o]ne of the intended goals of the PSLRA was to curtail the number of routinely filed class action lawsuits; an unexpected consequence is that class action lawyers are bringing better, more thoroughly researched securities cases. Higher pleading standards enforced under the PSLRA require lawyers to thoroughly investigate claims prior to filing a complaint.”). Thus, although post-PSLRA the number of securities cases commenced and the percentage of motions to dismiss that the SDNY courts grant have not changed, it is possible that plaintiffs have adjusted to the PSLRA and are therefore filing higher quality pleadings. Whether or not this theory bears out, however, the upshot is that post-PSLRA, the SDNY experienced about the same number of securities cases filed per year and judges dismissed the same percentage of them at the motion to dismiss phase as they did before the passage of the statute.
+and hence on the volume of securities litigation that proceeded to discovery. Rather, the primary outcome following the enactment of the PSLRA was that the relative rate of cases in which motions to dismiss were filed in SDNY securities cases per year rose significantly. The clear implication is that, measured by the percentage of motions to dismiss filed in cases brought after the statute’s passage, the PSLRA may have done little to ease the impact of securities litigation costs to litigants and judicial resources. Indeed, though it is difficult to document, a question requiring further research is whether the statute may have actually increased those effects to the extent that the significant rise of motion to dismiss practice that the Study recorded may have produced greater costs and delays in connection with the new securities actions brought post-PSLRA.
+58
+To be sure, as described above, the total number of securities actions filed actually declined in recent years, apparently an effect of the more rigorous
+Twombly/Iqbal
+pleading doctrine. In consequence, the courts had fewer securities cases on their dockets demanding judges’ consideration during pretrial proceedings. Arguably, however, the judicial attention demanded to respond to the higher percentage of cases in which motions to dismiss were filed may outweigh the savings of time and resources the courts potentially might otherwise have had to expend on the securities actions, which may have been discouraged by the effect of
+Twombly/Iqbal
+.
+III. ANALYSIS
+The findings of the SDNY Study may be read to support several observations. By itself, the stricter pleading standard the PSLRA imposed did not produce a material effect on the number of securities actions filed in the SDNY. But the Study recorded a significant reduction in SDNY securities actions filings after
+Twombly
+/
+Iqbal
+that could be attributed largely to the more exacting plausibility test established by those decisions.
+The more stringent pleading standard
+Twombly
+/
+Iqbal
+promulgated may also have induced another phenomenon difficult to explain. Post-PSLRA and continuing until
+Iqbal
+, the number of cases in which motions to dismiss were filed in securities actions in the SDNY rose significantly every year, likely a cumulative impact of two developments: the PSLRA’s heightened pleading standard and its provision automatically staying the litigation—thus barring discovery pending the resolution of a motion to dismiss—combined with
+Twombly
+/
+Iqbal
+’s stricter pleading test. After
+Iqbal
+, however, the total number of such motions recorded on the court’s dockets actually dropped, from an average of 184 from 1995 to 2006, to 177 from 2010 to 2016. But, oddly, while the total number of motions filed declined, the percentage of cases containing such motions continued to increase yearly, from a pre-
+Twombly
+average of 26% of cases with motions, to 37% post-
+Twombly
+.
+Also notable are the results detailing the court’s disposition of motions to dismiss. Confirming the findings reported by other studies of motion to dismiss practice encompassing larger categories of cases and a larger selection of district courts,
+59
+See, e.g.
+, Hubbard,
+supra
+note 21, at 6.
+the rate at which SDNY judges fully granted such motions in securities cases did not change appreciably. It remained at about 35% pre- and post-
+Twombly
+/
+Iqbal
+.
+These data suggest that
+Twombly/Iqbal
+may have affected the litigation conduct and pleading strategies of both plaintiffs and defendants. Both sides may have become more selective and strategic in their litigation practices. Plaintiffs’ counsel, perhaps constrained by the greater challenges that
+Iqbal
+’s stricter pleading prerequisites demanded and fearing the prospect of dismissal because of inability to satisfy the higher bar, brought fewer securities actions. In other words, some claimants’ attorneys may have elected to avoid bringing the weaker cases so as to concentrate on the stronger ones. For their part, given the decline in the total number of actions plaintiffs commenced, defendants encountered a smaller pool of cases to challenge by motions to dismiss. Hence, over time the number of motions recorded overall began to decline as cases settled, plaintiffs withdrew or abandoned some pending motions, and courts resolved others. Yet, the percentage of cases with such motions went up significantly—on average by 73%—with the filing of new cases.
+That development may indicate a tactical choice by defense counsel. Emboldened by the
+Twombly/Iqbal
+higher pleading standard, they may have tended to project a greater likelihood of success in motion to dismiss practice and thus to challenge more complaints. Defendants may have pursued this strategy despite the plaintiffs’ efforts to strengthen the pleadings so as to improve the prospects of surviving a motion to dismiss, and despite empirical indicators suggesting that the likelihood that the courts would grant such motions in full remained virtually unchanged. Nonetheless, why the number of cases with such motions to dismiss continued to rise, even as the total number of new actions declined, is a subject that indicates a need for more empirical study and further analysis.
+On one view, the preceding phenomenon may suggest evidence of the central hypothesis the SDNY Study sought to confirm. Specifically, it may serve to demonstrate that a portion of the motions to dismiss reviewed in connection with the Study, and by extension arguably in litigation more generally, were unnecessary insofar as they were made for reasons not necessarily motivated by the merits of the motion, its realistic likelihood of success, or the strength of the underlying action. Some motions may be impelled by tactical considerations such as the movant seeking to force a settlement by imposing upon the opponent the expense of preparing a response. Self-serving economic or personal pushes and pulls—of the litigants or counsel, whether proper, borderline, or impermissible—may form a driving force of motion practice in other cases. Reasons for motion practice may also be attitudinal. They may stem from counsel’s practice styles and professional outlook, in particular a litigation perspective that the procedure is a tool to be used because “it is there.” On this view, a motion to dismiss presents an opportunity to be taken advantage of rather than to be prudently bypassed, in effect a stone that, in the name of zealous advocacy and regardless of cost, should not be left unturned.
+60
+See
+Marrero,
+supra
+note 1, at 1673–74.
+To the extent that causal grounds such as these impel motion practice that is not actuated primarily by an interest in a fair and efficient adjudication of the dispute at issue, the product will manifest in unnecessary litigation cost, waste, and potential abuse. Moreover, insofar as fundamentally inefficient motion practice draws tacit license from statutes, rules, or judicial doctrine, the law itself may share the blame for handing litigants ways and means to undercut the overarching ends of Rules 1 and 8.
+61
+See id
+.
+Uniquely, securities litigation lends support for this observation.
+The PSLRA effectively encourages motion to dismiss practice. In actions brought under the statute, discovery is automatically stayed upon the defendant’s filing of a motion to dismiss, and proceedings for the formal gathering of evidence cannot advance until the court rules on that motion.
+62
+See
+15 U.S.C. § 78u-4(b)(3)(B) (2012).
+Hence, the statutory framework builds in a step that essentially legitimizes a professional “check-the-box” practice outlook. That approach will prevail insofar as it implicitly assumes that defendants will avail themselves of the device simply because it has been written into the procedure, and not necessarily because there is sufficiently compelling merit for every motion filed.
+63
+See
+Marrero,
+supra
+note 1, at 1673–74.
+In this manner, the statutory rule operates as an official invitation, a virtual open door that countenances the filing of motions to dismiss. Because of this significant incentive, the statute likely impels the filing of a large number of unnecessary or unmeritorious motions to dismiss.
+In practice, this attitude manifests itself in the manner some litigants perceive the application of the PSLRA. In particular, the SDNY Study results evince the tendency of the PSLRA to induce the filing of arguably needless motions to dismiss. As Chart 1 indicates, in the five years preceding the PSLRA, the number of SDNY securities cases with motions to dismiss averaged 66.2. In the subsequent twelve years, and preceding
+Iqbal
+, that average rose to 93.6, and to 96.1 during the seven years following
+Iqbal
+. Even more dramatic is the contrast between the rate of motions to dismiss filed in SDNY securities actions and the rate generally experienced in large samples of cases from district courts nationwide. Specifically, while the SDNY Study recorded a filing rate of motions to dismiss in 31% of securities cases, the survey of securities class actions conducted by Professor Couture reported motions to dismiss in 96% of such actions.
+64
+See
+Couture,
+supra
+note 21, at 553.
+To be sure, not every one or even the majority of the motions to dismiss filed is baseless or necessarily made for dubious reasons. Nonetheless, to the extent that the incidence of motion practice recorded in securities actions is significantly disproportionate to the rate experienced in other types of litigation, the result may suggest an inference that, at least in some part, the higher level of motion practice experienced in securities litigation may be attributable to the routine expectation that such motions would be filed. In fact, there is evidence supporting this inference. Various studies of motions to dismiss filed in broader categories of cases and a larger selection of courts documented a filing rate of between 5–12% of the actions reviewed.
+65
+See
+discussion
+supra
+note 21.
+Such gaping disparity cannot be fully explained by the standard operation of the forces and gears driving ordinary practice and procedure. Nor can it be entirely ascribed to the effect of rules unique to securities litigation. Rather, to some degree the difference likely intimates the working of lawyerly impulses not readily acknowledged or precisely measurable.
+There are also first-hand anecdotal accounts of a practice outlook and tendency among litigants to file and oppose unnecessary motions to dismiss at the disproportionate rate prevalent in securities actions. Judges with substantial experience addressing securities litigation—such as those in the SDNY—likely will attest as commonplace that upon the filing of PSLRA cases, lawyers—plaintiffs and defendants alike—simply take for granted that a motion to dismiss will be filed by defendants as a matter of course. As if they considered the procedure obligatory rather than permissive—a sure risk of malpractice rather than a discretionary strategy falling comfortably within the bounds of reasonable professional judgment calls—counsel automatically build into the case management plans and scheduling orders they propose to the court a full briefing schedule for such presupposed motions. That reflexive tactic can be hugely wasteful.
+66
+As a practical matter, such automatic practice has curious implications. It suggests that no matter how meticulously plaintiffs’ counsel craft the complaint in a securities action, or how much skill, expert knowledge, and experience they may possess in this specialized body of law after more than twenty years of PSLRA practice, they still cannot get pleadings right. Thus, according to defendants’ responses, in as many as 31% of the cases, any complaints plaintiffs file are defective enough to warrant dismissal at the pleading stage. The SDNY Study, as well as other examinations of the issue, suggests a different perspective of securities action pleadings: that of the courts. Judges reviewing motions to dismiss in those actions fully grant only about 35% of motions to dismiss—regardless of the pleading standard employed, thus suggesting greater shortcomings in the challenges to the plaintiffs’ pleadings than in those pleadings themselves. To counter this point, it might be argued that as a matter of defense strategy, a rate of success in disposing of a case entirely that ranges around one-third may be a course of action worth the risk and the cost. For the purposes of this analysis, however, the distinction regarding Rule 12(b)(6) motions drawn in note 54,
+supra
+, and Part IV,
+infra
+, is important. The rate of success of motions based on the sufficiency of the pleadings is likely lower. Moreover, the granting of a motion to dismiss does not always mean a complete dispatch of the litigation. A granting of a motion to dismiss is appealable, and the losing party often does pursue an appeal.
+In some cases, the motions actually filed seek the dismissal of some claims, or the striking of particular allegations or material from the pleadings, but not the entire action. In effect, the movant thus concedes that part of the complaint is sufficient to state a claim, and that at least to that extent the dispute will proceed to discovery. In many instances, such partial motions, as elaborated in Part IV, operate to generate abundant costs and inefficiencies because they produce no net gain in streamlining the litigation, but tend to substantially delay its resolution.
+The SDNY Study’s data and analysis produced greatly disproportionate and significant results in another telling measure relating to the motions to dismiss: the number of motions filed containing no record entry that the court took any action to resolve them. The number of motions that fall into this category is substantial. Some studies reporting the incidence of motions to dismiss filed annually in federal courts that record no judicial disposition indicated a rate ranging from 23% to as high as 49%.
+67
+See
+Thomas E. Willging, Fed. Judicial Ctr. Use of Rule 12(b)(6) in Two Federal District Courts 5–6 (1989) (citing a study finding that 23% of Rule 12(b)(6) motions to dismiss were not ruled upon by the court);
+id.
+at 6 (citing a study by the Civil Litigation Research Project that examined Rule 12(b)(6) motions in five federal district courts around the country and found that 56% of motions were ruled upon, leaving 44% that the courts did not rule upon); Admin. Office of U.S. Courts, Cases and Motions to Dismiss Filed 2009–2010: Information on Collection of Data (2010) (surveying the dispositions of motions to dismiss filed in ninety-four federal district courts between 2007 and 2009 and finding that approximately 51% of those motions were decided by the courts each year, leaving 49% that the courts did not rule upon).
+The comparable proportion relating to securities actions revealed by the SDNY Study is 35%.
+68
+This number derives from the data reported in Section II.B.1.,
+supra
+, which indicates that during the SDNY Study period, 4,620 motions to dismiss were filed in securities cases, of which the courts left 1,615 undecided.
+This large number of motions to dismiss not acted upon by the courts invites questions about what accounts for the phenomenon. In some cases the reasons are clear: presumably, those motions were either voluntarily withdrawn or abandoned by the movant for a variety of reasons before the court could rule upon them. The parties may have settled the dispute. The underlying issue may have been otherwise mooted. New counsel with a different litigation strategy may have appeared for the movant. Or the motion may have served an intended purpose of forcing settlement, or plaintiff’s outright withdrawal of the lawsuit. But none of the various valid grounds can fully and satisfactorily explain the whole of the significant volume involved.
+Motions filed but that show no record of disposition by the courts translate into a substantial amount of unnecessary litigation, and thus a telltale measure of high cost and inefficiency. In each instance, the movants have expended substantial sums in preparing the motion papers and pursuing further proceedings to secure the relief sought. In response, the opponents also incur commensurate costs, potentially causing greater delay of a disposition on the merits. Cumulatively, the time and resources thus devoted to court proceedings that contribute little or nothing to advance the resolution of the dispute add up to staggering wasted effort.
+69
+This phenomenon is particularly revealing of the waste of time and expense in the context of complex litigation, such as entailed in securities cases. Because of the higher costs and delays that complex actions tend to generate, a disproportionately greater incidence of motions to dismiss not resolved in such cases may provide a measure of the magnitude of inefficiency and wasted effort that may be attributable to such motions.
+These circumstances thus leave unanswered the fundamental question raised here. To what extent were some of the motions actually filed unnecessary and wasteful because they were prematurely or improvidently made, or were prompted by counsel’s professional style or custom simply because prevailing procedure allows the practice?
+IV. REFORM PROPOSALS
+The analysis in Part III of these comments focuses on motion to dismiss practice in securities actions. But it bears recalling at this point the overarching context animating the debate in this forum: widespread concern about litigation cost and inefficiency in their larger manifestations. This Article suggests that such motion practice embodies a component of waste, inefficiency, and potential abuse that, though difficult to quantify precisely, is sufficiently prevalent to pose significant concern for the legal profession and the justice system. This argument, however, may be extended to another level of generality. It contends that similar concerns perhaps apply more broadly to most other categories of cases. Four causes noted above that encourage or drive motion to dismiss practice support this conclusion. Procedurally, Rule 12(b)(6) countenances a motion to dismiss in lieu of an answer as-of-right in all types of cases. In this manner, Rule 12(b)(6), as discussed below, itself operates as a source encouraging inefficient and needless motion practice. Professionally, some attorneys are more prone than others to pursue filing motions to dismiss in any class of actions as a matter of procedural strategy or individual practice style. Economically, business pressures on lawyers to engage in wasteful practices exist regardless of the category of litigation, though likely to a greater degree in complex cases. And empirically, the phenomenon of large numbers of motions to dismiss filed but not acted upon by the courts prevails in all types of cases.
+To address the problem effectively in this bigger context requires more than the customary tinkering around the margins of the rules of procedure. That method of faltering fits and starts has characterized many reform efforts to date. The approach has failed because it lacks a vision and the strong enough will to achieve far-reaching holistic improvement of the magnitude that the significance and momentous implications of the issues demand. In this spirit, reform of motion to dismiss practice could make a significant contribution to mitigate the problem. But such improvement should be a point of departure, not the end of the endeavor.
+Thus, effectual remedies should encompass multi-faceted measures specifically designed to address not only a symptom manifesting as excessive motions to dismiss, but the causes that create other related waste and inefficiency in the administration of justice. A comprehensive scheme as envisioned here would require dramatic modifications of the Federal Rules designed to curtail motions to dismiss and effectuate other necessary structural changes. The suggested reforms should entail amendments of the Federal Rules and even altering the jury right provision of the Seventh Amendment of the United States Constitution. These proposals are discussed in turn below.
+A. The Federal Rules
+1. Motions to Dismiss
+Under the system proposed below, motions to dismiss would be significantly curtailed by means of dramatic redesign relating to the timing, content, and structure of motion to dismiss practice.
+a. Timing
+As regards timing, the filing of motions to dismiss should not be permitted without prior communication among the parties and court review. Under existing procedure as prescribed in Rule 12(b), a defendant may, in lieu of serving an answer, respond to a lawsuit by filing a motion to dismiss the complaint, as a whole or in part. Such motion may be made within the same deadline that applies to filing an answer.
+70
+See
+Fed. R. Civ. P. 12.
+Just as defendants are not obliged to inform plaintiffs or the court about the timing or content of their answer before submitting it, they are not required to give notice of a motion to dismiss that serves as a response to the complaint. Many defendants avail themselves of this permission as of right. When they do, the procedure can produce several deleterious consequences.
+Often, neither the plaintiff nor the court is aware of the motion until it is filed and entered in the public record of the case. Also frequently, upon reviewing the motion papers it becomes apparent to the opponent or the judge that the motion has no merit, is premature, or could readily have been avoided by some prior communication among the parties and the court. In many cases, if the motion exhibits pleading weaknesses that had been made known to the plaintiff or the court before defendant’s filing of the stealth motion, the plaintiff could amend the complaint so as to cure apparent deficiencies. Quite expectedly, faced with the motion’s challenge to the complaint and pressured by applicable deadlines to respond, the natural inclination of plaintiffs’ lawyers is to oppose the motion, thus squarely standing up to defense counsel’s affront to their adversaries’ drafting skills and understanding of the law. Defendants then counter with the expected and allowable step; they submit a reply.
+Months later, at the end of this trail of disutility, the court is confronted on its docket with a fully-briefed, potentially avoidable motion. Thus, judges are called upon to resolve many motions that should never have been filed and that they could have averted had they reviewed the disputed issues before the parties’ exchange of motion papers. But underscoring the futility of the procedure under these circumstances is another dimension of the problem. Where the courts agree that the pleadings are defective but curable, they can, and commonly do, grant plaintiffs leave to replead, as they are obliged to do under Rule 15.
+71
+See
+Fed. R. Civ. P. 15.
+The procedural cycle thus reverts the action to the beginning, leaving in its wake a byproduct of wasted effort and needless, costly delay.
+Alternatives exist to avoid premature or unnecessary motions to dismiss such as those the Federal Rules now countenance in lieu of an answer. If the pleadings raise substantive uncertainties or procedural deficiencies that create difficulty for the defendants to prepare an answer, instead of seeking outright dismissal, defendants have another course by which to point out weaknesses in the complaint or seek clarification. They could serve a motion under Rule 12(e) requesting a more definitive statement addressing the claimed defects in the pleadings and identifying the details the defense would need to respond to the claims. Despite the obvious utility for its intended purpose, this procedure is rarely used. Instead, some defendants instinctively resort to counterattack by a form of ambush. They deploy the impact of shock and surprise and the fearsome havoc of costs that a motion to dismiss wreaks on litigants and the courts. In any event, when the motion is filed, both the parties and courts are obligated to allocate substantial resources to address what, under the circumstances, may amount to a long, costly, and unnecessary proceeding.
+To grapple with the inherent inefficiency built into current Rule 12(b) procedure, insofar as it permits an unnoticed motion to dismiss in lieu of an answer, some judges have developed restrictions prescribed in their individual pretrial practices. Generally, those guides require defendants, before filing a motion to dismiss, to correspond with plaintiffs, typically by three-page letters copied to the court, pointing to the weaknesses in the complaint that the defendant contends justify dismissal.
+72
+See, e.g.
+, Hon. Victor Marrero,
+Individual Rules of Practice of Hon. Victor Marrero, U.S. District Judge
+, S.D.N.Y. 2–3 (Mar. 25, 2016), http://‌www.nysd.uscourts.gov/‌cases/‌show.php?‌db=judge_‌info&id=‌1280 [https://‌perma.cc/‌2RUT-CQMS]; Hon. Richard M. Berman,
+Individual Rules of Practice of Hon. Richard M. Berman, U.S. District Judge
+, S.D.N.Y. 1 (June 15, 2017), http://‌www.nysd.uscourts.gov/‌cases/show.‌php?db=‌judge_‌info&‌id=1413 [https://‌perma.cc/‌5FH2-MFUP]; Hon. Richard J. Sullivan,
+Individual Rules and Practices of Hon. Richard J. Sullivan
+,
+U.S. District Judge
+, S.D.N.Y. 2 (Feb. 5, 2018), http://‌www.nysd.uscourts.gov/‌cases/‌show.php?‌db=judge_‌info&id‌=1498 [https://‌perma.cc/‌UY2R-42K6].
+The practices also direct plaintiffs to respond within a specified timeframe, either stating amendments of the complaint they would commit to make to correct any pleading flaws they agree with, or to stand by the complaint as filed and oppose a motion to dismiss if submitted. Upon review of the correspondence, the court may schedule a conference, by telephone or personal appearance, to hear argument on the appropriateness of a motion to dismiss. On that occasion, the court can offer the parties preliminary guidance indicating that the complaint as stated may be dismissed if it is not amended, or that a motion to dismiss based on the grounds the defendants assert is likely to be denied in whole or in part. Anecdotally, judges who employ this practice uniformly report that in most instances it serves to avoid or streamline motions to dismiss.
+Rule 12(b) should be amended to eliminate the procedure that allows defendants to automatically file a motion to dismiss in lieu of an answer, and either incorporate the pre-motion practices described above or formally enable courts to adopt them.
+73
+Despite its advantages and effectiveness, there is some doubt regarding the extent to which the practice is permissible under the existing provisions of Rule 12(b). A pre-motion conference requirement, for instance, could not bar a motion to dismiss filed within the prescribed time for the defendant to answer or move to dismiss the complaint if the conference is scheduled for a time after that deadline.
+See
+Milltex Indus. Corp. v. Jacquard Lace Co., 55 F.3d 34, 39 (2d Cir. 1995) (“Although it is within the judge’s discretion to hold a pre-motion conference for the purpose of persuading a party not to file a perceived meritless motion, . . . the judge may not require that the court’s permission be secured at such a conference before a party may file the motion.”); Richardson Greenshields Sec., Inc. v. Lau, 825 F.2d 647, 652 (2d Cir. 1987) (“Absent extraordinary circumstances, such as a demonstrated history of frivolous and vexatious litigation, or a failure to comply with sanctions imposed for such conduct, a court has no power to prevent a party from filing pleadings, motions or appeals authorized by the Federal Rules of Civil Procedure.”) (internal citations omitted).
+b. Content
+Concerning content, motion to dismiss practice under Rule 12(b) may be classified in four categories according to the various grounds the Rule specifies: (1) lack of subject-matter or personal jurisdiction;
+74
+Fed. R. Civ. P. 12(b)(1)–(2).
+(2) improper court venue;
+75
+Fed. R. Civ. P. 12(b)(3).
+(3) inadequacy of notice or service of process;
+76
+Fed. R. Civ. P. 12(b)(4)–(5).
+and (4) insufficiency of the pleadings to state a claim for relief.
+77
+Fed. R. Civ. P. 12(b)(6). The classification described above omits reference to Rule 12(b)(7), which covers failure to join a necessary party under Rule 19. That subsection does not fit neatly into any of the four categories described. For the purposes of the proposal developed here, motions brought under Rule 12(b)(7) could be treated the same as those that fall under categories (1)–(3).
+Categories one through three, corresponding to Rule 12(b)(1)–12(b)(5), have an aspect in common. They encompass circumstances that operate as legal or conditional barriers that constitute grounds warranting dismissal of the action. But such disposition would rest on reasons unrelated to the factual basis or substantive validity of the claims in dispute. By contrast, a motion invoking the fourth category, which corresponds to Rule 12(b)(6), entails inquiry into the adequacy of the facts pleaded which, if true, would satisfy the doctrinal elements of particular substantive claims as defined by applicable statute or common law.
+In practice, Rule 12(b)(6) motions have evolved into two distinct subgroups which are lumped together under the rubric of “failure to state a claim upon which relief can be granted.”
+78
+Fed. R. Civ. P. 12(b)(6).
+In one category, analogous to the common feature of Rule 12(b)(1)–12(b)(5), motions under 12(b)(6) rest primarily on the existence of a discrete, decisive legal issue or condition precedent that does not implicate evaluating the underlying facts or the merits of the substantive causes of action the complaint alleges. Such determinative reasons may include, for instance, the operation of a statute of limitations, lack of standing, res judicata, or the illegality of the transaction at issue by reason of a statute or public policy.
+79
+Other examples include: lack of standing; incapacity to sue; preemption; sovereign immunity; absolute or qualified immunity; arbitration agreements; and exhaustion of administrative remedies.
+In each of the preceding circumstances, the dispute could be readily ended by the court resolving a dispositive issue that turns essentially on a legal ruling. That decision would conditionally bar litigation of the lawsuit’s substantive claims.
+Another subset of Rule 12(b)(6) motions, however, is grounded on the factual details pleaded in the complaint, assuming their truth and reasonable inferences they raise favoring the claimant. Specifically, motions that fall within this category implicate the factual inquiry described above: whether, evaluated together, the allegations in the complaint sufficiently state the elements that compose the particular causes of action the plaintiff asserts, making the claims “plausible on [their] face.”
+80
+Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007).
+Some observations about these classifications highlight their distinction and suggest reasons why they should be treated differently in practice. The analysis may also help in formulating concepts for reform of motion to dismiss practice. As a general proposition, the legal issues that fall within the scope of Rule 12(b)(1)–12(b)(5) and the first subpart of Rule 12(b)(6) described here ordinarily can be reviewed and resolved by the courts relatively expeditiously. For this purpose, in most cases there is no need for extensive discovery. Rather, in the typical action, only the pleadings and perhaps some determinative documents should suffice to constitute the record for decision. Not much more than such a limited docket should be necessary because fundamentally the question to be decided entails a dispositive matter of law, and not an assessment and qualitative judgment regarding the sufficiency and truth of the factual details defining the substantive elements of a claim.
+Motions that fall within the second component of Rule 12(b)(6) identified above, however, generally raise different challenges that are more difficult and time-consuming to resolve. These matters tend to be fact-intensive and demand the application of vague standards. Hence, resolution of the questions that such motions present constitute perhaps the greatest source of costly, inefficient, and often unnecessary pretrial motion practice. Motions to dismiss encompassed by this subcategory require, on the part of both litigants and the courts, the mustering and assessment of disputed material facts, as well as the application of doctrinal rules that suffer from multiple flaws.
+First, the applicable standards demand pleadings by the parties and determinations by the courts about the sufficiency of the underlying facts to state a valid claim. The judge’s decision may be made only on the basis of the plaintiff’s allegations in the complaint and any documents they incorporate or rely upon in drafting the pleadings.
+81
+See, e.g.
+, Chambers v. Time Warner, Inc., 282 F.3d 147, 152–53 (2d Cir. 2002).
+Thus, the motion must be decided prior to access to documentary, testimonial, and expert evidence ordinarily procured through discovery. But often, at minimum, limited or targeted discovery is essential to create a substantial and reliable record necessary to underpin such rulings. Second, the prevailing standard—the “plausibility” test promulgated by
+Twombly
+/
+Iqbal
+,
+82
+Twombly
+, 550 U.S. at 560–63; Ashcroft v. Iqbal, 556 U.S. 662, 678–79 (2009).
+no less so than the “no set of facts” doctrine that predated
+Twombly
+/
+Iqbal
+and governed pleadings for fifty years under the
+Conley
+83
+Conley v. Gibson, 355 U.S. 41, 45–47 (1957)
+.
+regime—is hopelessly opaque. Third, the applicable test demands the exercise of an exceptional amount of subjective and normative judgment on the part of the courts, rulings that must be rendered on the basis of little more than typically self-serving factual allegations asserted by advocates.
+84
+Indeed, in connection with instructing courts reviewing Rule 12(b)(6) motions to dismiss to determine whether what plaintiffs allege in their complaints is plausible,
+Iqbal
+invites judges to bring to bear their “judicial experience and common sense” in guiding their rulings. 556 U.S. at 679.
+And fourth, there is substantial empirical scholarship suggesting, as the SDNY Study confirmed, that the fundamental change in pleading doctrine brought about by
+Twombly
+/
+Iqbal
+has produced little or no material alteration in the courts’ rate of disposition of motions to dismiss.
+85
+See
+Hubbard,
+supra
+note 21, at 6–7.
+In these respects, Rule 12(b)(6), as now written and applied encompassing the two distinct aspects described above, operates adversely to the interests of all the major participants in the justice system. Especially in more complex litigation, plaintiffs spend more time and resources drafting longer and more elaborate complaints that respond to the required elements of the causes of action they assert,
+86
+See, e.g.
+, Nathan Pysno, Note,
+Should
+Twombly
+and
+Iqbal
+Apply to Affirmative Defenses?
+, 64 Vand. L. Rev. 1633, 1666 (2011) (“Litigation expenses seem to have increased because of the new
+Twombly
+standard, with plaintiffs being required to file longer complaints and defendants, in turn, required to respond with longer answers.”) (italics added).
+though frequently proceeding on the basis of blurry “facts.” Without the benefit of some discovery, those pleadings sometimes amount to snippets of firsthand knowledge supplemented with a blend of suspicions, inferences, beliefs, guesswork, and conclusions—whatever allegations stitched together may work to cross the minimum threshold that applicable rules and doctrine lay out to state a claim for relief. But often, no matter how long, expansive, or substantive the plaintiffs’ statement of the facts may be, as read by some defendants, what the pleadings allege is never quite enough for plaintiffs to make out a prima facie case—even on occasions, for instance, when the plaintiffs’ factual recitations rely heavily on findings of misconduct and liability publicly made by government investigations and prosecutions.
+Despite generally having greater access to and control over the facts, defendants spend inordinate time and resources claiming weakness in the complaint, declaring that the facts as articulated by the pleadings are insufficient to state any plausible ground for relief under any one or all of the multiple claims that complaints in complex cases typically embody. At times, these defenses present legal theories and arguments that seem reflexive, formulaic, and forced. Yet the courts must then expend substantial amounts of their limited resources reviewing and resolving such challenges. That judges grant only about one-third of motions to dismiss in their entirety,
+87
+For a qualification regarding this figure, see discussion
+supra
+note 54. As suggested there, the rate of motions to dismiss granted in their entirety is likely lower as it relates to motions grounded entirely on the sufficiency of the facts pleaded.
+and that the rate of dispositions of motions to dismiss under
+Twombly
+/
+Iqbal
+has remained relatively unchanged despite the dramatic departure from the prior simplified notice pleading standard to the more substantive and demanding plausibility doctrine, is quite revealing. Though motions to dismiss may serve a helpful purpose in streamlining litigation and providing court guidance on the viability of particular claims, practical experience demonstrates their countervailing operation, suggesting that what goes into much motion to dismiss practice may be unacceptably wasteful and unnecessary.
+c. Structure
+i. Subdivision of Rule 12(b)(6)
+In relation to procedural reform, the distinction between the two subcategories of Rule 12(b)(6) motions drawn above, coupled with the particular difficulties that motions in the second subcategory present, suggests a course to remedial measures designed to significantly reduce the number of such motions filed. First, Rule 12(b)(6) should be divided into two categories corresponding to the classifications described above. These subdivisions would be designated as 12(b)(6)(1) and 12(b)(6)(2). The first part would be labeled “motion for an order to dismiss the action as a matter of law.” The second, if permitted as an option under the approach described below, would be labeled “motion for an order to dismiss the action as a matter of law for failure to state a claim upon which relief can be granted.”
+Under subsection 12(b)(6)(1), the proposal would permit the filing of motions to dismiss grounded essentially on dispositive legal theories, comparable to those that govern Rule 12(b)(1)–12(b)(5). In most cases, such motions may be decided on the basis of the pleadings supplemented by central documents, affidavits, and declarations submitted by either party. In exceptional circumstances, limited or targeted discovery may be permitted to address discrete, material issues that cannot be resolved on the basis of the existing factual record.
+Second, subsection 12(b)(6)(2) would encompass motions requiring an assessment of the sufficiency of factual allegations to satisfy the substantive elements of a legal claim. In this connection, two alternatives should be considered. First, this provision could be eliminated entirely, and defenses contending that the complaint fails to state sufficient grounds for relief should be adjudicated on the basis of a full evidentiary record at the summary judgment stage or at trial. The core of this approach has roots in comments and proposals advanced by distinguished authorities on the Federal Rules. Former Yale Law School Dean Charles E. Clark (later judge of the Second Circuit Court of Appeals), who served as the first Reporter of the Supreme Court’s original Committee on the Rules of Civil Procedure that drafted the Federal Rules, advocated abolition of the provisions relating to the motion to dismiss for failure to state a claim under Rule 12(b)(6), and the motion for judgment on the pleadings provided for in Rule (12)(c) (what was referred to in pre-Federal Rules practice as the demurrer).
+88
+See
+Judicial Conference of the United States, Advisory Committee on the Civil Rules, Rule 12, at 54 (Nov. 17–19, 1988) [hereinafter Advisory Committee]. In response, the Judicial Conference’s Advisory Committee on Civil Rules (the Advisory Committee) proposed an amendment that adopted Clark’s approach in part, accepting the abrogation of Rule 12(b)(6) but retaining Rule 12(c).
+See id.
+at 56–58. The Committee’s notes remarked that much of the high volume of Rule 12(b)(6) motions practice was “addressed to matters of form, not substance; its growth is not consistent with Rule 1 or with the notice theory of pleading manifested in these rules. Much of this practice may be motivated by a desire to delay . . . .”
+Id.
+at 58–59;
+see
+also
+Arthur R. Miller, Fed. Judicial Ctr., The August 1983 Amendments to the Federal Rules of Civil Procedure: Promoting Effective Case Management and Lawyer Responsibility 8 (1984) (Professor Miller, who was then the Reporter of the Advisory Committee, remarked that Rule 12(b)(6) motion practice “is not an effective screen. It is in a sense a revolving door device, rarely dispositive. Indeed it is by most sorts of cost-efficiency tests an artifact at this point.”). The Advisory Committee continued its deliberation of the proposal and decided not to proceed with the change, upon taking into account data from a sample of motions to dismiss filed in two district courts that did not substantiate the perception of a large rise in the volume of such motions.
+See
+Willging,
+supra
+note 66, at 1–3.
+Animating Dean Clark’s position was the expectation that motion to dismiss practice would be displaced by summary judgment proceedings.
+89
+See
+Advisory Committee,
+supra
+note 87, at 54. In November 1988, the Advisory Committee addressed perceptions that the filing of motions to dismiss had increased significantly during the preceding decade and that the practice had developed into “little better than an expensive waste of time.”
+Id.
+(quoting Richard L. Marcus,
+The Revival of Fact Pleading Under the Federal Rules of Civil Procedure
+, 86 Colum. L. Rev. 433, 493 (1986)).
+Alternatively, such motions could be permitted, but only upon the development of a factual record gathered as necessary through limited and targeted discovery. Such discovery would be allowed insofar as needed to establish or negate factual assertions made in the pleadings by either party, and to address the sufficiency of such allegations to state the substantive elements of a cause of action. Under this approach, the court need not assume the truth of what plaintiffs state in the complaint. The court would accept for consideration any relevant documents that the plaintiff may have omitted from the pleadings, strategically or not, and that defendants offer to supplement the record.
+90
+To some extent, this procedure embodies aspects of existing Rules 12(c) and 56(f). A potentially useful but rarely used vehicle that could be employed for this purpose exists under Rule 12(i). It provides that, upon motion, any defense listed in Rule 12(b)(1)–(7), and any Rule 12(c) motion, must be decided before trial “unless the court orders a deferral until trial.” Fed. R. Civ. P. 12(i).
+This procedure would encourage the parties to focus initial discovery on gathering facts that might support or defeat a motion to dismiss on the ground that the plaintiff has failed to state a claim for relief. Under the proposed change, courts would not be thrice constrained, as they are now, by the obligation to: (1) evaluate the sufficiency of allegations solely on the basis of plaintiffs’ pleadings deemed true;
+91
+The doctrine that for the purpose of reviewing and ruling on a motion to dismiss the court must accept the plaintiff’s factual allegations as true sometimes poses unique challenges for judges. There are instances in which, on their face, factual statements plaintiffs make cannot rationally be deemed true.
+See, e.g.
+, Jeffreys v. Rossi, 275 F. Supp. 2d 463, 475 (S.D.N.Y. 2003),
+aff’d
+, 426 F.3d 549 (2d Cir. 2005) (holding that plaintiff’s own testimony claiming to have been thrown out of a third story window by police “is so replete with inconsistencies and improbabilities that a reasonable jury could not find that excessive force was used against him”); Schmidt v. Tremmel, No. 93 Civ. 8588 (JSM), 1995 WL 6250, at *3 (S.D.N.Y. 1995) (dismissing plaintiff’s claim because “[n]o reasonable person would undertake the suspension of disbelief necessary to give credit to the allegations made in [the] complaint or in [the] subsequent missives to the court”); United States v. Potamkin Cadillac Corp., 689 F.2d 379, 381 (2d Cir. 1982) (dismissing a claim based solely on a general denial in the affidavit of an attorney “who concededly lack[ed] personal knowledge” of the facts). Courts then struggle with applying not only the concept that they must accept the truth of plaintiffs’ factual recitations, but the restriction that in their consideration of the motion they cannot assess questions of evidentiary weight or credibility. Moreover, as indicated above, plaintiffs’ pleading strategies sometimes engage in their own “hide-the-ball” gamesmanship by deftly not mentioning or attaching to the complaint critical documents that may be prejudicial to the plaintiffs’ claims early in the proceedings. It diminishes the settlement value of a weak lawsuit if the plaintiff gives away too early in the proceedings more than necessary to get by on the pleadings.
+(2) exclude from consideration relevant documents, sometimes studiously omitted by plaintiffs from reference or inclusion in the complaint but later offered by defendants, that could prove decisive to a determination of a motion to dismiss; and (3) make significant normative judgment calls on the basis of unsubstantiated pleadings—such as whether the plaintiffs’ allegations are sufficient and particular enough to state a plausible claim in accordance with the substantive elements of the cause of action at issue.
+In fact, under the proposal outlined here, the applicable standard that defendants must satisfy to warrant an order dismissing the complaint would shift the focus of the relevant inquiry. In practice, the assessment would be comparable to the test that governs motions for summary judgment.
+92
+The difference between this proposal and summary judgment under Rule 56 is that under the suggested procedure, a movant would not need to wait until the completion of fact discovery to file a motion to dismiss the complaint for failure to state a claim for relief. Moreover, the motion under the proposed scheme could be made on the basis of limited discovery at any time that factual support gathered reveals dispositive grounds for a judgment as a matter of law resting on the evidentiary record as it then exists.
+The evaluation of the dispositive issue would be based on admissible evidence. It would center on whether the movant is entitled to judgment as a matter of law because the claimant, based on a factual record developed as necessary by limited or targeted discovery, has not presented enough evidence to satisfy the doctrinal requirements applicable to the particular claim and thus failed to state a claim for relief.
+93
+Of course, it is possible for defendants, as they commonly do under existing Rule 12(b)(6) practice, to file a motion to dismiss which asserts grounds covering theories based on both proposed subsection 12(b)(6)(1) and 12(b)(6)(2). Or they may base initial challenges only on the legal issues and conditional barriers that may be recognized under proposed 12(b)(6)(1). In either event, the proposed reform would operate more efficiently than current practice. If the motion is grounded on both subdivisions of revised Rule 12(b)(6), it presumably would be based on a more developed factual record that would facilitate disposition of the motion as a whole or in part. If sufficient grounds exist for resolving the motion under proposed Rule 12(b)(6)(1), the court need not address the proposed Rule 12(b)(6)(2) challenge. And some defendants may elect to proceed with objections as matters of law under proposed Rule 12(b)(6)(1) and defer raising proposed Rule 12(b)(6)(2) challenges until a fuller evidentiary record has been developed.
+Splitting Rule 12(b)(6) into two subdivisions as presented here may raise a concern that the measure could be counterproductive if summary judgment motion practice is taken into account. In that event, it may be argued, the reform could create three dispositive motion procedures out of Rules 12(b) and 56, instead of the current two. In practice, the likelihood that the proposal would produce such a result is very remote. It is no secret that under existing procedures judges have an aversion—especially in complex cases—to having to resolve both a Rule 12(b)(6) motion to dismiss and later a motion for summary judgment in the same action. Partly for that reason, it is not uncommon that whenever the parties go beyond the pleadings in making or responding to a motion to dismiss, courts are prone to convert such motions, pursuant to Rule 12(d), into motions for summary judgment, and then direct the parties to proceed with additional discovery as necessary. In this manner, courts essentially compress two dispositive motion proceedings into one. Judges therefore would likely cringe at any possibility that the rules proposed here would allow opportunities for three dispositive procedural bites at the apple.
+Thus, if an action has been the subject of an unfavorable ruling on a motion to dismiss pursuant to proposed Rule 12(b)(6)(1), it is probable that, given the amount of discovery that would be gathered to support a motion under proposed Rule 12(b)(6)(2), the court would convert such a motion into one for summary judgment rather than countenance another round for a third dispositive motion.
+This judicial disfavor for added procedural burdens is contextually important in addressing the potential concern described above for two reasons. First, as proposed, the parties could not file any Rule 12(b)(6) motion to dismiss without prior communication with each other and a conference with the court. Second, a motion to dismiss for failure to state a claim under the proposed Rule 12(b)(6)(2) could not be filed without a sufficient evidentiary record based on, at minimum, limited discovery. A motion made at that point would operate essentially as one for summary judgment. If the parties indicate at the pre-motion conference that the evidentiary record they have created requires additional discovery, the court can, as described above, convert the proceeding into a motion for summary judgment. Moreover, in many cases the parties themselves may find it advisable to proceed to summary judgment at this juncture rather than opening the possibility to what would amount to a second round of summary judgment practice. On this analysis, there is no basis for real concern about the chances that the proposal would lead to three rounds of dispositive motions.
+In any event, the discussion of the Rule 12(b)(6) proposal as framed above opens the option, advocated by Dean Clark, of doing away with Rule 12(b)(6) altogether, thus enabling the parties to proceed directly to discovery and summary judgment proceedings. In essence, the reform proposed here describes a variant of this concept. It would allow motions to dismiss based on dispositive matters of law, but not on grounds that require assessment of the sufficiency and substantive evaluation of factual allegations.
+ii. Partial Motions
+Partial motions comprise an additional source of inefficiency and waste in motions to dismiss. The reform measures suggested above should relieve the problem. In practice, it is not uncommon for defendants to move to dismiss a complaint as to some claims but not others, or to strike particular statements the plaintiffs assert
+94
+The particular procedure designed for this purpose is the Rule 12(f) motion to strike.
+See
+Fed. R. Civ. P. 12(f).
+without challenging the sufficiency of the pleadings as regards other parts of the complaint. Such circumstances are rife with unnecessary cost, waste, and delay. In these cases, the defendant’s move, seeking partial dismissal, amounts to a tacit acknowledgment that as drafted, the complaint’s allegations are otherwise sufficient to state a cause of action entitling relief as to some claims. Hence, the litigation will proceed into discovery as to the unchallenged claims regardless of how the court decides a motion contesting the other portions of the complaint.
+It also happens frequently that the claims the movant seeks to dismiss are so closely interrelated with those not contested that the scope of the discovery to be taken will not be materially different whether or not the claims or statements the movant opposes remain in the complaint until later stages of the litigation. At that point, a fuller evidentiary record would be available to facilitate adjudication of a dispositive motion under Rule 56 for summary judgment as to all or parts of the action. In addition, some litigation presents claims of such complexity that they would be most efficiently resolved on a motion based not in part on the pleadings but on a fuller evidentiary record following discovery. Claims then remaining in the action that the movant may have sought to challenge by motion to dismiss could be resolved at the summary judgment stage or at trial along with claims that are not challenged.
+95
+Rule 12(i) could be read to contemplate such an approach.
+See supra
+note 89; Fed. R. Civ. P. 12(i). Consequently, a court reviewing a partial motion to dismiss in a complex case that would require disaggregating interrelated issues and ruling on some but not others, may be better served by postponing judgment until an evidentiary record is developed at the summary judgment stage or at trial that sheds light on the entire action.
+In any event, ordinarily, with exceptions such as provided by the PSLRA, the filing of a motion to dismiss does not automatically stay discovery.
+96
+See, e.g.
+, Hachette Distrib., Inc. v. Hudson Cty. News Co., 136 F.R.D. 356, 358 (E.D.N.Y. 1991).
+In consequence, unless the court grants a stay of discovery regarding contested claims, the movant of a partial motion to dismiss may have little to gain from the strategy. Conceivably, by the time the court rules on such motion, a significant amount of discovery encompassing matters that might relate to the challenged claims may already have taken place. On the other hand, if the court were to grant a stay of discovery pending disposition of the partial motion, and later also granted that motion, the net result would significantly set back the resolution of the action. In that event, discovery proceedings would have to begin as to the entire action. But for the retarding effect of the partial motion, the unchallenged claims would have progressed into the discovery phase and thus would have advanced resolution of the dispute.
+These circumstances would warrant a procedure barring filing partial motions to dismiss except with prior approval of the court upon a sufficient showing of special circumstances.
+iii. Structure and Procedures
+Curtailing wasteful motion to dismiss practice may be achieved as an indirect effect of other major reforms of the Federal Rules and rearrangement of the court’s adjudicatory structure. Potentially, the benefits of such improvement may extend as well to other court proceedings—such as motions for summary judgment—that in some circumstances serve to induce excessive litigation. As a starting point, this task would question a premise that essentially underlies and determines the volume of cases filed and considered in federal courts, and hence that shapes the cost and duration of litigation: does every matter that now qualifies for adjudication by district judges merit the deployment of the entire federal court structure and allocation of its resources for that purpose? Or could the federal adjudicatory system be streamlined to remove from the district judges’ dockets cases that could be disposed of more speedily and economically by more efficient mechanisms? As now structured, federal court jurisdiction is based on a kind of one-size-fits-all approach. As to some categories of cases and controversies, the federal courts are open equally, and the Federal Rules fully apply, regardless of the type of action or the substance of the claims at issue. Under other circumstances, the Federal Rules make no distinction in how they operate as between a constitutional crisis and a slip-and-fall claim, whether the stakes in dispute are worth $100 or $100 million. In many lawsuits, that philosophy creates tension with Rule 1 and undermines realization of its aims. The working of the justice system at such potential cross-purposes suggests that a different course may be warranted.
+Taking these circumstances into account, in response to the question of whether all disputes now eligible for adjudication by district judges should continue to be, one model that would significantly diminish disproportionately costly pretrial proceedings—including motions to dismiss and motions for summary judgment—would answer in the negative. Consistent with that predicate, a responsive reform would establish a jurisdictional and procedural hierarchy for adjudication of disputes. That structure would create a tiered design comprising different forums arranged according to two criteria: the complexity of the action and the magnitude of the value in controversy.
+97
+Classifying federal lawsuits based on monetary value for the purpose of determining the proper forum for adjudication of disputes is not without precedent, even for cases brought in the federal courts based on federal question jurisdiction. Indeed, from 1875 to 1976, access to federal courts in federal question cases required that the value of the matter in controversy meet a specified amount.
+See
+Lumen N. Mulligan,
+A Unified Theory of 28 U.S.C. § 1331 Jurisdiction
+, 61 Vand. L. Rev. 1667, 1676 n.28 (2008) (analyzing the changes in federal question jurisdiction over time). Congress enacted a general grant of federal question jurisdiction for the first time in 1875 but imposed a requirement of a minimum of $500 as an amount in controversy.
+See
+Joseph Ellison Earnest,
+The Jurisdictional Amount in Controversy in Suits to Enforce Federal Rights
+, 54 Tex. L. Rev. 545, 547–48 (1976) (citing Act of Mar. 3, 1875, ch. 137, § 1, 18 Stat. 470). Congress increased the amount in controversy to $2,000 in 1887, to $3,000 in 1911, and to $10,000 in 1958.
+See
+Act of July 25, 1958, Pub. L. No. 85-554, § 1, 72 Stat. 415; Act of Mar. 3, 1911, 36 Stat. 1091; Act of Mar. 3, 1887, 24 Stat. 552;
+see also
+13D Charles Alan Wright et al., Federal Practice and Procedure §§ 3561.1, 3701 (4th ed. 2018) (discussing the history of the amount in controversy requirement); Mulligan,
+supra
+, at 1676 n.28. In 1887, 1911, and 1958, Congress raised the amount in controversy for federal question and diversity jurisdictions concurrently.
+See
+Wright,
+supra
+at § 3561.1. In 1976, Congress eliminated the amount in controversy for federal question suits “brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity.”
+See
+Act of Oct. 21, 1976, Pub. L. No. 94-574, § 2, 90 Stat. 2721. Four years later, in 1980, Congress eliminated the amount in controversy for federal question suits in its entirety.
+See
+Act of Dec. 1, 1980, Pub. L. No. 96-486, § 3, 94 Stat. 2369. Thus, until 1976, a litigant had to satisfy a minimum amount in controversy to reach federal court—whether the claimant invoked jurisdiction based on diversity or federal question, and regardless of the parties to the lawsuit. Failing to meet the jurisdictional threshold on either ground meant that the dispute could be litigated only in state court. The proposal presented here would not reinstate such a complete bar to access to the federal courts based on the value of a lawsuit. Instead, it would create a more efficient mechanism within the federal system to classify and resolve cases of varying complexity and value. An additional example of a statutory amount in controversy requirement is found in the Class Action Fairness Act of 2005 (CAFA). CAFA established a $5,000,000 amount in controversy as a jurisdictional requirement of bringing a class action suit in federal court.
+See
+Class Action Fairness Act of 2005, Pub. L. No. 109-2, § 4, 119 Stat. 4 (amending 28 U.S.C. § 1332(d) with new class action standards);
+see also
+Gregory P. Joseph,
+Federal Class Action Jurisdiction After CAFA,
+Exxon Mobil
+and
+Grable, 8 Del. L. Rev. 157, 165–67 (2006).
+A framework for such a system would contain three levels. First, for actions involving relatively minor stakes, the value of which would be substantially out of proportion with the likely cost of litigation, the parties should be referred to mandatory mediation. To quantify this classification, a monetary ceiling could be fixed by statute or rule.
+98
+See, e.g.
+, Bruce Zucker & Monica Her,
+The People’s Court Examined: A Legal and Empirical Analysis of the Small Claims Court System
+, 37 U.S.F. L. Rev. 315, 319 (2003) (surveying monetary ceilings defining the jurisdiction of small claims courts around the country). There are controversies in which the remedy the claimant seeks has no monetary value but bears potentially high public significance, such as injunctive relief against government action. The proposed system should exclude such controversies from referral to mandatory mediation. Similarly, under the proposed scheme, actions seeking injunctive remedies would be removed, as they are under current law, from the categories of cases assigned to magistrate judges.
+See
+28 U.S.C. § 636(b)(1)(A) (2012) (“[A] judge may designate a magistrate judge to hear and determine any pretrial matter pending before the court, except a motion for injunctive relief . . . .”).
+A second tier for adjudication would be set for actions of more moderate value but within a specified upper limit. Cases in that category would be designated for expedited bench hearings before a magistrate judge
+99
+This division of labor would parallel the process relating to criminal cases where magistrate judges are assigned to handle all proceedings in misdemeanor actions, including trial and sentencing. District judges preside over felony cases, but typically delegate to magistrate judges proceedings concerning arraignment, bail, appointment of counsel, and guilty pleas.
+on the basis of a limited evidentiary record composed primarily of documents central to the dispute, as well as affidavits and courtroom testimony where necessary. There is an analogue for this procedure in the method of adjudication that generally applies in connection with motions seeking a temporary restraining order or preliminary injunctive relief.
+100
+See
+Fed. R. Civ. P. 65.
+In that context, even in actions involving complex, high-stakes disputes, courts are called upon to make substantive judgments applying exacting standards such as sufficient demonstration of irreparable harm and likelihood of success on the merits. More to the point, ordinarily judges make these weighty initial determinations, which in most cases end up coinciding with final dispositions, quite expeditiously, often ruling from the bench. Those decisions are usually rendered on the basis of the pleadings and a documentary record supplemented by testimony and arguments presented at a hearing at which the rules of evidence generally do not apply.
+101
+A rarely used but potentially useful procedure exists under Rule 12(i) that could be adapted for hearings of this nature.
+See
+Fed. R. Civ. P. 12(i).
+The same system could operate with similar dispatch and effectiveness as regards resolution of the merits of disputes of moderate value.
+102
+The proposal may raise a concern that some controversies may bear small monetary value but have major legal significance warranting adjudication by the district courts as a way to signal their importance and promote greater uniformity in the development of the law. Cases involving civil rights and constitutional issues may illustrate the point. But this argument may not be predicated on a full appreciation of the extensive role of magistrate judges in the federal system, and thus may not take into account the extent to which much of the adjudication they handle under existing procedures already entails cases that fall within the category of disputes with modest monetary stakes but potentially major legal significance. Many such cases reach the magistrate judges’ workload when parties consent to proceed before the designated magistrate judge for all purposes pursuant to 28 U.S.C. § 636(c)—including in high-stakes actions—and when district judges refer issues to them for reports and recommendations pursuant to 28 U.S.C. § 636(b)(1)(B), a significant majority of which the district judges adopt. Decisions of magistrate judges, therefore, may become part of the body of federal law as much as those rendered by district court judges. Moreover, as indicated, and regarding some aspects of their criminal law duties, the functions of the magistrate judges may coincide now with those of the district courts.
+See
+discussion
+supra
+note 98.
+In fact, this model also reflects the adjudication process allowed in some state courts.
+103
+For example, the Commercial Division of the New York State Supreme Court, created to facilitate adjudication of complex commercial litigation, requires an amount in controversy ranging from $500,000 in the First Appellate Department to $50,000 in other Departments.
+See
+N.Y. Ct. R. § 202.70(a) (2018). In addition, the small claims divisions in many states like New York, California, and Utah have been created to resolve relatively minor civil disputes by functioning informally and expeditiously to avoid the complexities and delays common in the normal course of litigation.
+See e.g.
+, Gerald Lebovits,
+Small Claims Courts Offer Prompt Adjudication Based on Substantive Law
+, 70 N.Y. St. B.J. 6 (Dec. 1998) (explaining that small and commercial claims courts allow individuals and businesses the ability to adjudicate claims promptly and inexpensively in front of a judge and receive dispositions based on substantive law because the “normal rules of practice, procedure and pleading do not apply, and the rules of evidence are relaxed”); Mary Babb Morris, et al., 16 Cal. Jur. 3d,
+Courts
+, § 221 (indicating the beneficial purpose of informal proceedings in minor civil disputes); Utah R. Small Claims P. 7(d) (explaining the process where small claims judges “receive the type of evidence commonly relied upon by reasonably prudent persons in the conduct of their business affairs” and that the “rules of evidence shall not be applied strictly” to “allow hearsay that is probative, trustworthy and credible”); Steven Rinehart,
+Small Claims Courts: Getting More Bang for Fewer Bucks
+, 23 Utah B.J. 32, 34 (2010) (“[T]here are no discovery or disclosure requirements in small claims courts.”). Similarly, more streamlined proceedings take place in the context of immigration hearings, family court, and traffic court. Other jurisdictions have developed court systems and procedures for adjudication of lawsuits similarly arranged by tiers based on value and complexity of the disputes. In England and Wales, for instance, courts assign civil actions in accordance with a procedure whose purpose is to improve access to and reduce the temporal and financial costs of litigation. These ends are achieved by standardizing a case’s timetable and costs, as well as by limiting the amount of testimony permitted. Under this program, courts divide civil cases into one of three tracks: small claims, fast track, or multi-track.
+See
+CPR 26.1 (UK). Small claims cases are “less complex cases, which have claim values of up to £10,000 (or £1,000 for personal injury and housing disrepair cases).” Ministry of Justice, A Guide to Civil and Administrative Justice Statistics—Glossary, 2016–17, at 5 (UK). Fast track cases are more complex actions where (1) a trial is unlikely to last more than one day; (2) there is not expected to be more than one expert per party in any field or more than two fields requiring experts; and (3) the amount in controversy exceeds £10,000 (“£1,000 for personal injury and housing disrepair cases”) and does not exceed £25,000.
+Id.
+; CPR 26.6 (UK); CPR 28.2 (UK). Multi-track cases are those that are the most complex and do not qualify as either small claims or fast track cases.
+See
+Ministry of Justice,
+supra
+, at 4. To help parties control and predict costs, the program directs courts to designate many procedural elements at the outset of a case. When a court allocates a claim to the fast track, it must provide a timetable and directions regarding case management.
+See
+CPR 28.6 (UK). The court must provide a trial date within a three-week period that is no more than thirty weeks after the court issues the directions.
+See id.
+The directions pertain to document disclosure, service of witness statements, and expert evidence, unless the court deems disclosure unnecessary or chooses an alternative course.
+See
+CPR 28.3 (UK).
+The tiered adjudicatory system suggested here should mitigate, though indirectly, the severe problem that excessive motion to dismiss practice poses for litigants and the courts. Under the proposal, if dispositive grounds exist to terminate an action that falls within the value range of tiers one and two, the validity of such challenge would be resolved by the magistrate judge summarily through the abbreviated procedure described without the need for a separate round of dispositive motion practice. Consequently, because minor and moderate stakes litigation would be removed from the class of cases considered by district courts in the proposed system, many circumstances that now generate motions to dismiss in those actions would be resolved at summary proceedings held before a magistrate judge. As a result, fewer motions to dismiss should arise. In turn, eliminating some needless motion practice may create opportunities to reduce unnecessary costs and delays in federal litigation, and thus to improve access to justice.
+For adjudication of complex litigation involving bigger stakes, defined by the amount in controversy and/or specified categories of cases, a higher tier of adjudication would be established. At that level, dispute resolution would occur before district courts.
+104
+The federal courts’ diversity jurisdiction standards provide an instructive analogue. To qualify for federal court adjudication, the amount in controversy in such cases must exceed $75,000. Otherwise, the litigation must proceed in the state court system.
+See
+28 U.S.C. § 1332 (2012).
+Such litigation, however, should be streamlined by means of further limitations on motion practice and discovery, both in time and scope. In this regard, the model should include several restrictions:
+Communications between the parties and a conference with the court should be required as conditions for filing motions to dismiss.
+Partial motions to dismiss should not be permitted in cases where the claims challenged are closely interrelated with uncontested claims that would proceed to discovery.
+Rule 12(b)(6) procedure should be viewed as providing for a motion to dismiss as a matter of law and subdivided into the two components proposed above.
+Except in demonstrated extraordinary circumstances, courts should adhere firmly to discovery deadlines specified in approved case management plans.
+Without prior court approval for good cause shown, document production should not encompass matters regarding more than a fixed number of months from the date of the event or transaction in dispute.
+The number and duration of depositions should be further curtailed. Generally, the number could be capped, for example, at a presumptive fixed limit that could vary by type or complexity of the litigation. The length should be restricted to not more than seven hours for parties or their designated representatives, and not more than three hours for other witnesses.
+At the initial conference, the parties should submit to the court for endorsement a discovery plan stating, where reasonably known, the particular documentary or testimonial evidence they will seek, and demonstrate the relevance of such material to the factual grounding of the action and how it would tend to support the particular claim and its legal theory.
+105
+Rule 26(f)(2) and (f)(3) require the parties to confer and develop a discovery plan, and outline what the plan should contain. Specifically, these subsections call for the parties’ views and proposals regarding (1) any changes in the timing, form, or requirements for disclosures under Rule 26(a); (2) the subjects for which discovery may be necessary and the timing for completion of such discovery; (3) issues about discovery or production; (4) issues involving knowledge of protective orders; and (5) any changes that should be made to limitations on discovery that the rules impose. The parties are directed to submit to the court a “written report outlining the plan.” R. Civ. P. 26(f)(3). This description of what a discovery plan should encompass makes no reference to the particulars of the persons or entities from which discovery will be demanded, or the relevance of the information, or the substantive claims at issue. Though arguably some of that information may be encompassed in the requirements of Rule 26(a) and 26(f), it should be explicitly incorporated as part of a discovery plan. Moreover, the existing rule does not require court approval of the discovery plan itself, only that the parties submit to the court a report summarizing the plan. The concept of a discovery plan would take on greater meaning and be more likely to be observed if the plan were formally endorsed and so ordered by the court.
+B. The Seventh Amendment
+The Seventh Amendment of the United States Constitution enshrines a curious relict. It guarantees a right of trial by jury in federal court civil actions “where the value in controversy shall exceed twenty dollars.”
+106
+U.S. Const. amend. VII.
+Altering this provision would accord Congress and the courts greater latitude in addressing concerns regarding high litigation cost and inefficiency.
+At the time of its adoption, the trial by jury monetary limitation served two purposes. Substantively, it codified the common law right to a jury in civil cases. But the provision also promoted an efficiency goal. Insofar as the jury right was limited to cases and controversies of higher monetary value, its unavailability in litigation of other disputes presumably would facilitate more expeditious and economical adjudication of lawsuits involving relatively minor stakes—perhaps the greater part of then-prevailing court proceedings. Of course, in relative terms the worth of twenty dollars in 1791 does not equate to the value that sum commands today.
+107
+See
+Note,
+The Twenty Dollars Clause
+, 118 Harv. L. Rev. 1665, 1673 (2005) (noting that inflating twenty dollars from 1791 to the early 2000s produced present-day values ranging from approximately four hundred dollars to just under seven thousand dollars).
+Minor-stakes cases that would have been ineligible for jury trial when the Amendment was ratified would qualify for the invocation of the right in modern times. Accordingly, parties may demand jury trials in vastly more civil cases in federal court today than the Framers may have contemplated, or that is practical and justifiable on present economic or efficiency grounds.
+This anomaly carries significant implications for efforts to address the problem of high cost and delay in federal litigation. In theory, for instance, in a civil lawsuit in which the stakes are worth $25, the litigants possess a constitutional right to demand that the entire federal system’s jury trial apparatus be mobilized and assembled for the resolution of the relatively minor dispute. In that event, the daily stipend paid to one juror alone—recently raised to $50
+108
+See
+Spencer S. Hsu,
+Federal Jurors Get Their First Raise in Nearly 30 Years
+, Wash. Post (Mar. 27, 2018), https://‌www.washingtonpost.com/‌local/‌public-safety/‌federal-jurors-get-their-first-raise-in-nearly-30-years/‌2018/‌03/‌26/‌3ba6f646-311b-11e8-8bdd-cdb33a5eef83_‌story.html?‌noredirect=‌on&utm_‌term=.484487cfd8d5 [https://‌perma.cc/‌34A3-YN26].
+—would exceed twice the amount in controversy, not to mention the vast capital outlay the litigants must incur and the additional time they must devote to the case for the sake of fully exercising the right to a jury trial.
+109
+See
+Mark S. Brodin,
+Accuracy, Efficiency, and Accountability in the Litigation Process—The Case for the Fact Verdict
+, 59 U. Cin. L. Rev. 15, 17 (1990) (“[C]ommentators over the years have nonetheless criticized the jury for burdening the dispute resolution system with unnecessary delay and cost.”);
+see also
+Douglas G. Smith,
+Structural and Functional Aspects of the Jury: Comparative Analysis and Proposals for Reform
+, 48 Ala. L. Rev. 441, 443–44 (1997) (explaining that the jury trial is widely criticized as an imperfect institution due in part to it “producing unwarranted delay”); David L. Shapiro & Daniel R. Coquillette, Comment,
+The Fetish of Jury Trial in Civil Cases: A Comment on
+Rachal v. Hill, 85 Harv. L. Rev. 442, 457–58 (1971) (describing civil jury trials as undue burdens on judicial administration that should be avoided). Further anomalies arise in state law causes of action brought in federal court under diversity jurisdiction pursuant to 28 U.S.C. § 1332, or removed from state courts pursuant to 28 U.S.C. § 1446. Because the Seventh Amendment right to a civil jury does not apply to the states, in some such circumstances the litigants may not be entitled to a jury trial if the case were commenced or remained in state courts, while they could invoke the right in federal court.
+See
+Margaret L. Moses,
+What the Jury Must Hear: The Supreme Court’s Evolving Seventh Amendment Jurisprudence
+, 68 Geo. Wash. L. Rev. 183, 185 (2000) (“Although the Seventh Amendment has never been applied to the states through the Due Process Clause of the Fourteenth Amendment, in any case based on state law but brought in federal court either because of diversity of citizenship, or as a state claim pendent to a federal claim, the civil jury trial right is determined by the Seventh Amendment.”); William E. Davis III, Notes and Comment,
+The Jury a Block Away: The False Conflict Between Texas and Federal Jury Trial Practice in Diversity Cases
+, 56 Baylor L. Rev. 671, 689 (2004) (discussing conflicts between state and federal right to a jury trial in civil cases).
+More significantly, this outdated constitutional disparity serves not only to impose disproportionate public costs on the justice system, but also as a hindrance to judicial or legislative efforts to channel resolution of low-value disputes to a tiered system of adjudication such as elaborated above, or to other alternative means of dispute resolution such as mandatory binding mediation or arbitration, where the right to a jury determination does not exist.
+A textually simple modification of the Seventh Amendment can lift the impediment it presents for litigation cost reform. Rather than delimiting a fixed dollar value in its text, the Amendment could authorize Congress to adjust the amount periodically, taking into account changes in the cost of living and fluctuations in the value of money over time. Were Congress able to enact such a limitation, it may be beneficial to link the specified standard to the amount in controversy requirement applicable to federal court diversity jurisdiction.
+110
+See
+28 U.S.C. § 1332 (2012).
+Of course, a reform that calls for constitutional amendment is likely to strike some critics as somewhat quixotic. In anticipation of that objection, three points are offered here.
+First, this Article has remarked that any effort to relieve the concerns addressed in this forum must be animated by a robust spirit of innovation. As underscored above, the problem of excessive litigation costs is deeply entrenched in some aspects of the professional culture, practice, and economic model of the law business. The values this phenomenon frustrates are so fundamental that, to work meaningful change, remedial measures demand more than just the usual tweaking the edges of the problem. In fact, nothing short of bold, far-reaching measures may suffice to make a material difference. To cringe from saying what needs to be said, or to decline placing a proposition on the table because at present the action may seem remote or even improbable, would diminish that vital force.
+Second, it is worth bearing in mind that to solve any problem effectively, some corrective actions are necessarily longer-term, a consideration aptly illustrated by the experience of the Federal Rules. When adopted in 1938, that project culminated an effort that spanned a generation of reformers devoted to an enterprise that at its inception may also have been perceived as charging at windmills.
+Finally, there is no better evidence than various amendments of the Constitution itself to demonstrate how time catches up with the force of ideas, bringing reality to notions that when first advanced were dismissed as naïve, misguided, or fevered chimera. Abolition of slavery, equal protection of the laws for all persons, voting rights for African-Americans and women, and a federal income tax represent some cases on point.
+V. EPILOGUE
+Procedural law in federal courts has come full circle. In fundamental and disquieting ways, federal practice in modern times has recreated some of the same basic deficiencies and attendant ill-effects that inspired the reform movement culminating in adoption of the Federal Rules in 1938. Civil practice rules today often work to frustrate realization of the overarching ends they were designed to achieve when promulgated. This turn of events, as occurred during its prior manifestation, has given rise to similarly damaging consequences for the court system and administration of justice.
+For many years, leading reformers and scholars of the pre-Federal Rules era decried the procedural codes governing federal court practice. Those pleading standards, critics charged, engendered stifling outcomes. The courts’ disposition of legal disputes too often turned not on the substance, truth, or legal sufficiency of the claims litigants asserted, but on obligatory adherence to rigid canons of pleading that, to state a recognized cause of action, procedural law directed parties to observe minutely. Such excessive formalism frequently curtailed the parties’ ability to obtain information vital to a full adjudication of the questions at issue, and thus obstructed achieving the civil legal system’s most essential goals: securing access to justice, determining the truth behind factual disputes, and deterring wrongful conduct.
+In effect, embedded in established federal court practice was a controlling principle of procedure that created impediments to reaching the merits of private legal conflicts and hindered resolving disputed factual issues at trial. The drafters of the Federal Rules rejected such a dogmatic, inequitable approach. In doing so, they also reacted against the adverse consequences that strict obedience to form frequently produced. As commentators have observed, court decisions were often determined by pleading subtleties that, in the service of technical formality, sacrificed substantive justice.
+111
+See, e.g.
+, J. Maria Glover,
+A Regulatory Theory of Legal Claims
+, 70 Vand. L. Rev. 221, 224 (2017) (Reformers “railed against stifling procedural codes that ‘together with the sporting attitude toward litigation, frustrated the ability of courts to adjudicate disputes on their merits’ and deliver substantive justice. Procedure was supposed to be the ‘handmaid’ of justice—yet all too often, formalist ‘nitpicking’ over essentialist questions about procedure became an end in itself.” (quoting Hiro Aragaki,
+The Federal Arbitration Act as Procedural Reform
+, 89 N.Y.U. L. Rev. 1939, 1969 (2014))).
+In response, the Federal Rules’ reformers sought to dismantle the old system and conceived a radical overhaul of civil practice meant to correct its flaws. Building on a fundamentally different philosophical grounding, they reaffirmed, as foremost purposes of the new procedure, what constitute perhaps the most central values underpinning the administration of justice: fairness and efficiency. To that end, the Federal Rules prescribed streamlined court proceedings. The reordered system simplified pleadings, opened the litigation doors to easier, symmetrical discovery of evidence by all parties, elevated substance over form, and strove for resolution of factual disputes by trial on the merits. Procedural reform, so envisaged, would thus advance fairness and economy, and improve access to justice.
+These objectives are expressly articulated up front in the Federal Rules. The preambular Rule 1 declares that the new procedure was designed to ensure “just, speedy, and inexpensive” adjudications in every court proceeding. And Rule 8 provides that to plead a sufficient cause of action, a complaint may contain little more than a “short and plain statement” declaring the grounds conferring court jurisdiction and supporting the claimant’s entitlement to relief. By giving such prominence to the basic purposes of the redesigned procedural structure at its very threshold, the reform called attention to a significant message. The emphasis implicitly referenced the history and context from which the Federal Rules emerged. It embodied vocal recognition of what was fundamentally wrong with the old system, essentially proclaiming that procedural law then prevailing was neither fair nor efficient.
+Modern federal practice has departed in significant ways from the course of the fundamental reform the Federal Rules set in motion, and thus has substantially vitiated some of its vital aims. Briefly stated, many of the harmful effects that pre-Federal Rules practice had created, and that encumbered and impaired the civil justice system, have reappeared in a contemporary mode, though now, as then, bearing equally troubling implications.
+That phenomenon is evident in several qualitative and empirical indicators. Federal litigation today is far from simplified.
+112
+See
+Marrero,
+supra
+note 1, at 1652–56. Indeed, as noted above, the prevailing “plausibility” regime ushered in by the Supreme Court in 2007 to govern federal court pleading essentially upended the Federal Rules’ foundational concept of enabling claimants to give notice of a lawsuit, and to accord defendants adequate opportunity to respond, by means of a concise factual recitation in a complaint.
+See
+Ashcroft v. Iqbal, 556 U.S. 662 (2009); Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007).
+To the contrary, the hallmarks of intricacy abound in current court practice. More rigorous pleadings, roadblocks raised by common motion practice, and longer and more complex proceedings define present-day litigation.
+113
+See
+Arthur R. Miller,
+From
+Conley
+to
+Twombly
+to
+Iqbal
+: A Double Play on the Federal Rules of Civil Procedure
+, 60 Duke L.J. 1, 8–9 (2010) (“Many cases seem interminable. The pretrial process has become so elaborate with time-consuming motions, hearings, and discovery that it often seems to have fallen into the hands of some systemic Sorcerer’s Apprentice. Yet trials are strikingly infrequent . . . .”).
+Such obstacles and constraints produce far-reaching, often deleterious consequences. Among the many ill effects of this phenomenon is the pronounced aversion to litigation manifested by legislators, courts, and private entities. That hostility is evident in the multitude of devices crafted by private interest advocates, litigants, Congress, and even the Supreme Court as means of litigation avoidance or suppression. Whether through mechanisms providing for mandatory arbitration, class action restraints, contractual modifications of procedural protections, tort reform, heightened pleading standards, or limitations on recovery of damages, the overall design of this enterprise is apparent: to discourage private enforcement lawsuits, especially aggregated actions, because litigation is perceived as too costly or abusive.
+114
+See
+generally
+J. Maria Glover,
+The Federal Rules of Civil Settlement
+, 87 N.Y.U. L. Rev. 1713 (2012). Adversity and hostility to litigation, largely because of its rising cost and inefficiency, also bear significant implications for lawyers’ work and business models, as evidenced by the dearth of trials, dramatic growth in disposition of cases by settlement, arbitration and mediation, as well as by the robust expansion of the size and operational role of in-house counsel.
+Typically, as scholars have noted, these endeavors are spearheaded by powerful corporate interests, and their burdens fall disproportionately on consumers, employees, and other persons who lack the resources or bargaining strength, other than collectively, to challenge such action.
+115
+See id.
+at 1729–32;
+see generally
+J. Maria Glover, “
+Encroachments and Oppressions”: The Corporatization of Procedure and the Decline of Rule of Law
+, 86 Fordham L. Rev. 2113 (2018).
+Perhaps most critical, they narrow access to substantive justice insofar as resolution of disputes tends to be based not on the content and merit of claims or defenses but on largely collateral technical edges, economic pressures, or strategic calculation. Yet, paradoxically, that result obtains despite the superabundant documentary and testimonial material litigants amass to substantiate claims and defenses, quite often creating evidentiary records, purportedly for a trial they know is illusory, of a magnitude well beyond the actual or realistic need for all the discovery they gather, or its demonstrable utility for a probable disposition of the case short of trial.
+For these reasons, determinations of the truth underlying civil litigation and conflict resolution on the merits in federal courts represent the exception rather than the rule. Nowadays, the prevalent mode of deciding legal disputes is through settlement or motion practice. By these means litigants generally seek to forestall discovery and avoid court adjudications of the substance of claims.
+116
+See
+generally
+Glover,
+supra
+note 113. A further outgrowth of the modern phenomenon featuring curtailment and avoidance of court proceedings as a concerted reaction against the cost and inefficiency of litigation is evident in another development: the growth of mandatory arbitration imposed by more businesses through adhesive contracts binding on employees and consumers.
+See
+Epic Sys. Corp. v. Lewis, 138 S. Ct. 1612, 1644 (2018) (Ginsberg, J., dissenting) (citing Alexander J.S. Colvin,
+The Growing Use of Mandatory Arbitration
+, Econ. Pol’y Inst. 1–2, 4 (Sept. 27, 2017), https://‌www.epi.org/‌files/‌pdf/‌135056.pdf [https://‌perma.cc/‌6Q9B-ZGLX]). Though that topic is beyond the scope of this project, it bears significantly on the central issues raised here.
+Motions to dismiss in particular serve a prophylactic purpose in those strategies. As elaborated above, such practice constitutes the preemptive sword and shield that lawsuit adversaries most often wield to block access to evidence, thus hampering discovery that may shed light on the facts at issue and support an optimal determination promoting substantive justice.
+These circumstances have dramatically diminished an essential function of the courts and redefined the contours and public expression of justice. Fewer than 2% of actions commenced in federal courts now terminate at trial.
+117
+See, e.g.
+, Glover,
+supra
+note 113, at 1720 (“[F]ederal civil trials . . . are now a rarity.”); Kevin M. Clermont,
+Litigation Realities Redux
+, 84 Notre Dame L. Rev. 1919, 1956 n.184 (2009) (referring to reports of the Administrative Office of U.S. Courts indicating a “steady decrease from almost 12% of civil terminations having reached trial in the 1960s to the [2009] levels approaching 1%”); Alan M. Trammell & Derek E. Bambauer,
+Personal Jurisdiction and the “Interwebs”
+, 100 Cornell L. Rev. 1129, 1185 n.303 (2015).
+The truth and actual value of claims and defenses are therefore seldom fully adjudicated by judges and juries. Rather, litigation generally ends with an overload of evidentiary content that compels retrenching the process by use of tactical procedures. Accordingly, in some cases valid claims may end up undercompensated, dismissed, or discouraged altogether, while in others, frivolous lawsuits may compel or coerce a strategic payout. In either event, litigation may conclude without a court ever rendering a substantive judgment verifying the reality underlying disputed facts. Yet, regardless of such tactical curtailment of court proceedings and calculated absence of finality, the length of time it takes, and hence the total costs incurred, to resolve cases that do proceed to trial has risen steadily and significantly in recent years.
+118
+A review of annual statistical reports of the Administrative Office of U.S. Courts indicates that the time from filing to disposition of civil cases that proceeded through trial has gradually and significantly increased over the last twenty years. For example, in 1997, the annual median time from filing to disposition through trial was 18 months. By 2007, that figure had increased to 23.8 months, and in 2017, the median time for disposition through trial was 25.9 months. These figures demonstrate a gradual increase in the time from filing to disposition of approximately 44% (study on file with author). The higher delay parties experience if they seek a trial on the merits likely creates greater pressures and incentives to settle, further diminishing the prospects of substantive dispositions by trial.
+In consequence, to the disturbing degree portrayed here, the federal court system is witnessing a resurgence of the grave concerns that animated the reforms underpinning the Federal Rules. In other words, at least as attested to by the recurrence of troublesome side effects from its past, procedural law has indeed come full circle.
+Nonetheless, the current version of these events is rooted in a different set of circumstances, the explanation of which reflects the realities of modern law practice. The excessive formalism and quibbling of the pleading codes that characterized the federal courts’ previous procedural epoch has been supplanted by a contemporary version of excess. Today, extreme litigation is modeled on an updated measure of exorbitance. In practice, litigation excess now finds expression in other metrics: the greater complexity of claims, the longer delays in resolving cases, the prohibitive or disproportionate costs, the expedient posturing of lawyers, and the attendant waste and inefficiency associated with much federal court practice.
+Though the reasons underlying these adverse developments vary, the overall result they produce is the same. To some extent, as the analysis above suggests, the burdensome and needlessly higher expense of litigation may be rules-driven, a function of excessive practices that current procedural law permits or tolerates.
+119
+See
+Marrero,
+supra
+note 1, at 1673–74.
+Another source derives from litigants’ outlook towards procedural law and their practice styles in applying the rules—for example, the degree to which they incline to exploit or avoid the unanticipated pitfalls or inefficiencies built into federal practice.
+120
+See id
+.
+In turn, practitioners’ dispositions concerning application of the rules may be influenced by the backdrop against which court procedures operate in modern times.
+Today, potent economic and professional drives—evinced by ever greater pressures on lawyers to produce more billable hours, charge higher fees, and earn larger profits and richer compensation—not only propel the day-to-day practice of law, but also shape and steer the legal profession’s prevailing business mode.
+121
+See id.
+at 1611–17.
+Consequently, an essential link exists between lawyers’ business imperatives and practice models and the excessive cost and level of waste and inefficiency experienced in legal services—for example, as argued here, by filing unnecessary motions to dismiss or making extreme discovery demands. The two forces likely pair in direct cause-and-effect proportion.
+There is a touch of irony evident in the crunch of these developments. The extravagant form that law practice norms once demanded gave way to extravagant substance. Litigants now perceive pleadings and discovery to obligate expansive content that in many cases proves to be disproportionate or unnecessary and raises the length and cost of court proceedings. Yet, from the standpoint of determining the truth, adjudicating private conflicts on the merits, and litigants’ access to justice, the net outcome is the same. The modern mode of substantive excess is no less constricting to the justice system than its formalist equivalent was during the Golden Age of federal civil procedure reform generations ago.
+122
+See
+Glover,
+supra
+note 113, at 1716 (“Ironically, the disorder afflicting the current system represents a new strain that draws much of its strength from the very set of rules designed in 1938 to cure it.”).
+CONCLUSION
+The longstanding debate within the legal community concerning the rising cost, delays, and inefficiencies of litigation continues with significant force. The prevalence of those concerns produces adverse consequences for the legal system and the administration of justice that substantially affect all the major interests involved in the practice of law. In consequence, dramatic new ways to address the problem are called for. One way to respond effectively may be to alter the culture of wasteful and unnecessary litigation that is too prevalent among practitioners. To this end, streamlining the stages of litigation that contribute most extensively to excessive practices, including, for instance, motions to dismiss and for summary judgment, may yield productive results. Curtailing motion to dismiss practice by revisions in Rule 12(b)(6) to enable court decisions on such motions to be grounded on a fuller evidentiary record may promote that goal.
+* United States District Judge, Southern District of New York. I thank my colleagues, Judges Richard A. Berman, John G. Koeltl, Loretta A. Preska, and Jed S. Rakoff of the United States District Court for the Southern District of New York, and Robert A. Katzmann, Chief Judge of the United States Court of Appeals for the Second Circuit, for their helpful comments and contributions in connection with this work. I am also grateful for the valuable support provided by several classes of my law clerks, in particular Anders Linderot, Kate Ferguson, Liliana Zaragoza, Joshua Weiss, Jordana L. Haviv, Becky Abrams Greenwald, Richard Cipolla, and Alina Lindblom, as well as by my judicial assistant, Maria Ramos, and law school interns Tamer Mallat, Ian C. Bruckner, and Travis Elliott-Knaggs. Finally, I express special appreciation to the editors of the Cardozo Law Review and former Cardozo Law School Dean David Rudenstine for their continuing commitment to this project and exceptional editorial assistance.
+Volume 40
+Issue 1

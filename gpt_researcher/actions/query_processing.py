@@ -42,6 +42,7 @@ async def generate_sub_queries(
     cfg: Config,
     cost_callback: callable = None,
     prompt_family: type[PromptFamily] | PromptFamily = PromptFamily,
+    context_packet: Dict[str, Any] = None,
     **kwargs
 ) -> List[str]:
     """
@@ -56,6 +57,7 @@ async def generate_sub_queries(
         cfg: Configuration object
         cost_callback: Callback for cost calculation
         prompt_family: Family of prompts
+        context_packet: Optional structured context from WarRoom
 
     Returns:
         A list of sub-queries
@@ -66,6 +68,7 @@ async def generate_sub_queries(
         report_type,
         max_iterations=cfg.max_iterations or 3,
         context=context,
+        context_packet=context_packet,
     )
 
     try:
@@ -118,6 +121,7 @@ async def plan_research_outline(
     report_type: str,
     cost_callback: callable = None,
     retriever_names: List[str] = None,
+    context_packet: Dict[str, Any] = None,
     **kwargs
 ) -> List[str]:
     """
@@ -132,6 +136,7 @@ async def plan_research_outline(
         report_type: Report type
         cost_callback: Callback for cost calculation
         retriever_names: Names of the retrievers being used
+        context_packet: Optional structured context from WarRoom
 
     Returns:
         A list of sub-queries
@@ -163,6 +168,7 @@ async def plan_research_outline(
         search_results,
         cfg,
         cost_callback,
+        context_packet=context_packet,
         **kwargs
     )
 

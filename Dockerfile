@@ -6,18 +6,18 @@ FROM python:3.12-slim-bookworm AS install-browser
 RUN apt-get update \
     && apt-get install -y gnupg wget ca-certificates --no-install-recommends \
     && ARCH=$(dpkg --print-architecture) \
-    && wget -qO - https://dl.google.com/linux/linux_signing_key.pub | apt-key add - \
-    && echo "deb [arch=${ARCH}] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list \
+    && wget -qO - https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg \
+    && echo "deb [arch=${ARCH} signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list \
     && apt-get update \
     && apt-get install -y chromium chromium-driver \
     && chromium --version && chromedriver --version \
     && apt-get install -y --no-install-recommends firefox-esr build-essential \
     && GECKO_ARCH=$(case ${ARCH} in amd64) echo "linux64" ;; arm64) echo "linux-aarch64" ;; *) echo "linux64" ;; esac) \
-    && wget https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-${GECKO_ARCH}.tar.gz \
-    && tar -xvzf geckodriver-v0.36.0-${GECKO_ARCH}.tar.gz \
+    && wget https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-${GECKO_ARCH}.tar.gz \
+    && tar -xvzf geckodriver-v0.34.0-${GECKO_ARCH}.tar.gz \
     && chmod +x geckodriver \
     && mv geckodriver /usr/local/bin/ \
-    && rm geckodriver-v0.36.0-${GECKO_ARCH}.tar.gz \
+    && rm geckodriver-v0.34.0-${GECKO_ARCH}.tar.gz \
     && rm -rf /var/lib/apt/lists/*  # Clean up apt lists to reduce image size
 
 # Stage 2: Python dependencies installation
